@@ -12,7 +12,7 @@ t.case_table = {
         players = {
             {
                 name = "Adida",
-                guid = "Unknown GUID",
+                guid = "Player-6112-02A98634",
                 --aliases= {},
             },
         },
@@ -24,7 +24,7 @@ t.case_table = {
         players = {
             {
                 name = "Aidenmage",
-                guid = "Unknown GUID",
+                guid = "Player-6112-02931BD2",
                 --aliases= {},
             },
             {
@@ -46,7 +46,7 @@ t.case_table = {
             },
             {
                 name = "Foodfatish",
-                guid = "Unknown GUID",
+                guid = "Player-6112-02AF5AFC",
                 --aliases= {},
             },
         },
@@ -123,12 +123,12 @@ t.case_table = {
         players = {
             {
                 name = "Jidi",
-                guid = "Unknown GUID",
+                guid = "Player-6112-02A65D6B",
                 --aliases= {},
             },
             {
                 name = "Phin",
-                guid = "Unknown GUID",
+                guid = "Player-6112-028C5223",
                 --aliases= {},
             },
         },
@@ -157,7 +157,7 @@ t.case_table = {
         players = {
             {
                 name = "Nightchief",
-                guid = "Unknown GUID",
+                guid = "Player-6112-02B67A56",
                 --aliases= {},
             },
         },
@@ -210,7 +210,7 @@ t.case_table = {
         players = {
             {
                 name = "Paradóx",
-                guid = "Unknown GUID",
+                guid = "Player-6112-0293FFE2",
                 --aliases= {},
             },
         },
@@ -222,7 +222,7 @@ t.case_table = {
         players = {
             {
                 name = "Poket",
-                guid = "Unknown GUID",
+                guid = "Player-6112-029F956F",
                 --aliases= {},
             },
         },
@@ -233,8 +233,8 @@ t.case_table = {
     {
         players = {
             {
-                name = "Sasoriama",
-                guid = "Unknown GUID",
+                name = "Sasorisama",
+                guid = "Player-6112-028FF320",
                 --aliases= {},
             },
         },
@@ -270,7 +270,7 @@ t.case_table = {
         players = {
             {
                 name = "Soulkeepér",
-                guid = "Unknown GUID",
+                guid = "Player-6112-02A46498",
                 --aliases= {},
             },
         },
@@ -294,7 +294,7 @@ t.case_table = {
         players = {
             {
                 name = "Tirop",
-                guid = "Unknown GUID",
+                guid = "Player-6112-0292FF37",
                 --aliases= {},
             },
         },
@@ -314,6 +314,789 @@ t.case_table = {
         url = "https://discord.com/channels/1306327491769798708/1336757228882886686",
         category = "dungeon",
     },
+
+
+
+    --Horde list
+
+    {
+        players = {
+            {
+                name = "Afelarusa",
+                guid = "Unknown GUID",
+                --aliases= {},
+            },
+        },
+        description = "SHORT REASON",
+        url = "LINK TO BLACKLIST ENTRY",
+        category = "dungeon",
+    },
+    {
+        players = {
+            {
+                name = "Berkutenok",
+                guid = "Unknown GUID",
+                --aliases= {},
+            },
+        },
+        description = "SHORT REASON",
+        url = "LINK TO BLACKLIST ENTRY",
+        category = "dungeon",
+    },
+    {
+        players = {
+            {
+                name = "Boykaa",
+                guid = "Player-6112-02A5D1AF",
+                --aliases= {},
+            },
+        },
+        description = "SHORT REASON",
+        url = "LINK TO BLACKLIST ENTRY",
+        category = "dungeon",
+    },
+    {
+        players = {
+            {
+                name = "Burgerker",
+                guid = "Player-6112-028D21E4",
+                --aliases= {},
+            },
+        },
+        description = "SHORT REASON",
+        url = "LINK TO BLACKLIST ENTRY",
+        category = "dungeon",
+    },
+    {
+        players = {
+            {
+                name = "Clickzx",
+                guid = "Player-6112-028D5983",
+                --aliases= {},
+            },
+        },
+        description = "SHORT REASON",
+        url = "LINK TO BLACKLIST ENTRY",
+        category = "dungeon",
+    },
+    {
+        players = {
+            {
+                name = "Crazyfury",
+                guid = "Player-6112-02A66E21",
+                --aliases= {},
+            },
+        },
+        description = "SHORT REASON",
+        url = "LINK TO BLACKLIST ENTRY",
+        category = "dungeon",
+    },
+    {
+        players = {
+            {
+                name = "Crispycream",
+                guid = "Player-6112-02AAB935",
+                --aliases= {},
+            },
+        },
+        description = "SHORT REASON",
+        url = "LINK TO BLACKLIST ENTRY",
+        category = "dungeon",
+    },
+    {
+        players = {
+            {
+                name = "Darwar / Darmare",
+                guid = "Unknown GUID",
+                --aliases= {},
+            },
+        },
+        description = "SHORT REASON",
+        url = "LINK TO BLACKLIST ENTRY",
+        category = "dungeon",
+    },
+    {
+        players = {
+            {
+                name = "Davalka",
+                guid = "Unknown GUID",
+                --aliases= {},
+            },
+        },
+        description = "SHORT REASON",
+        url = "LINK TO BLACKLIST ENTRY",
+        category = "dungeon",
+    },
+    {
+        players = {
+            {
+                name = "Dazi",
+                guid = "Unknown GUID",
+                --aliases= {},
+            },
+        },
+        description = "SHORT REASON",
+        url = "LINK TO BLACKLIST ENTRY",
+        category = "dungeon",
+    },
+    {
+        players = {
+            {
+                name = "Demigöd",
+                guid = "Player-6112-02A68271",
+                --aliases= {},
+            },
+        },
+        description = "SHORT REASON",
+        url = "LINK TO BLACKLIST ENTRY",
+        category = "dungeon",
+    },
+
+
+    {
+        players = {
+            {
+                name = "Devourr",
+                guid = "Unknown GUID",
+                --aliases= {},
+            },
+        },
+        description = "SHORT REASON",
+        url = "LINK TO BLACKLIST ENTRY",
+        category = "dungeon",
+    },
+
+
+    {
+        players = {
+            {
+                name = "Diregraf",
+                guid = "Player-6112-029A5B2B",
+                --aliases= {},
+            },
+        },
+        description = "SHORT REASON",
+        url = "LINK TO BLACKLIST ENTRY",
+        category = "dungeon",
+    },
+
+
+    {
+        players = {
+            {
+                name = "Dopamineæ",
+                guid = "Unknown GUID",
+                --aliases= {},
+            },
+        },
+        description = "SHORT REASON",
+        url = "LINK TO BLACKLIST ENTRY",
+        category = "dungeon",
+    },
+
+
+    {
+        players = {
+            {
+                name = "Dovahkiin",
+                guid = "Player-6112-028A5AF3",
+                --aliases= {},
+            },
+        },
+        description = "SHORT REASON",
+        url = "LINK TO BLACKLIST ENTRY",
+        category = "dungeon",
+    },
+
+
+    {
+        players = {
+            {
+                name = "Dranix",
+                guid = "Player-6112-028A4794",
+                --aliases= {},
+            },
+        },
+        description = "SHORT REASON",
+        url = "LINK TO BLACKLIST ENTRY",
+        category = "dungeon",
+    },
+
+
+    {
+        players = {
+            {
+                name = "Dèépfreasy",
+                guid = "Unknown GUID",
+                --aliases= {},
+            },
+        },
+        description = "SHORT REASON",
+        url = "LINK TO BLACKLIST ENTRY",
+        category = "dungeon",
+    },
+
+
+    {
+        players = {
+            {
+                name = "Entir",
+                guid = "Unknown GUID",
+                --aliases= {},
+            },
+        },
+        description = "SHORT REASON",
+        url = "LINK TO BLACKLIST ENTRY",
+        category = "dungeon",
+    },
+
+
+    {
+        players = {
+            {
+                name = "Fetidorifice",
+                guid = "Player-6112-02A37947",
+                --aliases= {},
+            },
+        },
+        description = "SHORT REASON",
+        url = "LINK TO BLACKLIST ENTRY",
+        category = "dungeon",
+    },
+
+
+    {
+        players = {
+            {
+                name = "Fireskream",
+                guid = "Player-6112-02A5FDC9",
+                --aliases= {},
+            },
+        },
+        description = "SHORT REASON",
+        url = "LINK TO BLACKLIST ENTRY",
+        category = "dungeon",
+    },
+
+
+    {
+        players = {
+            {
+                name = "Gajica",
+                guid = "Player-6112-028D897C",
+                --aliases= {},
+            },
+        },
+        description = "SHORT REASON",
+        url = "LINK TO BLACKLIST ENTRY",
+        category = "dungeon",
+    },
+
+
+    {
+        players = {
+            {
+                name = "Glibavac",
+                guid = "Player-6112-028F4CEC",
+                --aliases= {},
+            },
+        },
+        description = "SHORT REASON",
+        url = "LINK TO BLACKLIST ENTRY",
+        category = "dungeon",
+    },
+
+
+    {
+        players = {
+            {
+                name = "Greench",
+                guid = "Player-6112-029777E3",
+                --aliases= {},
+            },
+        },
+        description = "SHORT REASON",
+        url = "LINK TO BLACKLIST ENTRY",
+        category = "dungeon",
+    },
+
+
+    {
+        players = {
+            {
+                name = "Icandie",
+                guid = "Player-6112-02B3034E",
+                --aliases= {},
+            },
+        },
+        description = "SHORT REASON",
+        url = "LINK TO BLACKLIST ENTRY",
+        category = "dungeon",
+    },
+
+
+    {
+        players = {
+            {
+                name = "Jmbo",
+                guid = "Player-6112-02BF84AD",
+                --aliases= {},
+            },
+        },
+        description = "SHORT REASON",
+        url = "LINK TO BLACKLIST ENTRY",
+        category = "dungeon",
+    },
+
+
+    {
+        players = {
+            {
+                name = "Klumpenx",
+                guid = "Player-6112-02A3C830",
+                --aliases= {},
+            },
+        },
+        description = "SHORT REASON",
+        url = "LINK TO BLACKLIST ENTRY",
+        category = "dungeon",
+    },
+
+
+    {
+        players = {
+            {
+                name = "Kozakfury",
+                guid = "Unknown GUID",
+                --aliases= {},
+            },
+        },
+        description = "SHORT REASON",
+        url = "LINK TO BLACKLIST ENTRY",
+        category = "dungeon",
+    },
+
+
+    {
+        players = {
+            {
+                name = "Kroos",
+                guid = "Unknown GUID",
+                --aliases= {},
+            },
+        },
+        description = "SHORT REASON",
+        url = "LINK TO BLACKLIST ENTRY",
+        category = "dungeon",
+    },
+
+
+    {
+        players = {
+            {
+                name = "Maraservise",
+                guid = "Unknown GUID",
+                --aliases= {},
+            },
+        },
+        description = "SHORT REASON",
+        url = "LINK TO BLACKLIST ENTRY",
+        category = "dungeon",
+    },
+
+
+    {
+        players = {
+            {
+                name = "Marlborogold",
+                guid = "Unknown GUID",
+                --aliases= {},
+            },
+        },
+        description = "SHORT REASON",
+        url = "LINK TO BLACKLIST ENTRY",
+        category = "dungeon",
+    },
+
+
+    {
+        players = {
+            {
+                name = "Mazkn",
+                guid = "Player-6112-02959F1E",
+                --aliases= {},
+            },
+        },
+        description = "SHORT REASON",
+        url = "LINK TO BLACKLIST ENTRY",
+        category = "dungeon",
+    },
+
+
+    {
+        players = {
+            {
+                name = "Midgren",
+                guid = "Player-6112-028E04F9",
+                --aliases= {},
+            },
+        },
+        description = "SHORT REASON",
+        url = "LINK TO BLACKLIST ENTRY",
+        category = "dungeon",
+    },
+
+
+    {
+        players = {
+            {
+                name = "Naktre",
+                guid = "Player-6112-0291F5E4",
+                --aliases= {},
+            },
+        },
+        description = "SHORT REASON",
+        url = "LINK TO BLACKLIST ENTRY",
+        category = "dungeon",
+    },
+
+
+    {
+        players = {
+            {
+                name = "Neimuk",
+                guid = "Player-6112-02A3FB1F",
+                --aliases= {},
+            },
+        },
+        description = "SHORT REASON",
+        url = "LINK TO BLACKLIST ENTRY",
+        category = "dungeon",
+    },
+
+
+    {
+        players = {
+            {
+                name = "Osiiriis ",
+                guid = "Unknown GUID",
+                --aliases= {},
+            },
+        },
+        description = "SHORT REASON",
+        url = "LINK TO BLACKLIST ENTRY",
+        category = "dungeon",
+    },
+
+
+    {
+        players = {
+            {
+                name = "Parpumpa",
+                guid = "Unknown GUID",
+                --aliases= {},
+            },
+        },
+        description = "SHORT REASON",
+        url = "LINK TO BLACKLIST ENTRY",
+        category = "dungeon",
+    },
+
+
+    {
+        players = {
+            {
+                name = "Parrapara",
+                guid = "Player-6112-028A8006",
+                --aliases= {},
+            },
+        },
+        description = "SHORT REASON",
+        url = "LINK TO BLACKLIST ENTRY",
+        category = "dungeon",
+    },
+
+
+    {
+        players = {
+            {
+                name = "Pepellok",
+                guid = "Unknown GUID",
+                --aliases= {},
+            },
+        },
+        description = "SHORT REASON",
+        url = "LINK TO BLACKLIST ENTRY",
+        category = "dungeon",
+    },
+
+
+    {
+        players = {
+            {
+                name = "Polin",
+                guid = "Unknown GUID",
+                --aliases= {},
+            },
+        },
+        description = "SHORT REASON",
+        url = "LINK TO BLACKLIST ENTRY",
+        category = "dungeon",
+    },
+
+
+    {
+        players = {
+            {
+                name = "Pornello",
+                guid = "Player-6112-02A73AAC",
+                --aliases= {},
+            },
+        },
+        description = "SHORT REASON",
+        url = "LINK TO BLACKLIST ENTRY",
+        category = "dungeon",
+    },
+
+
+    {
+        players = {
+            {
+                name = "Prdac",
+                guid = "Player-6112-028AFC90",
+                --aliases= {},
+            },
+        },
+        description = "SHORT REASON",
+        url = "LINK TO BLACKLIST ENTRY",
+        category = "dungeon",
+    },
+
+
+    {
+        players = {
+            {
+                name = "Repmaster",
+                guid = "Player-6112-0297E455",
+                --aliases= {},
+            },
+        },
+        description = "SHORT REASON",
+        url = "LINK TO BLACKLIST ENTRY",
+        category = "dungeon",
+    },
+
+
+    {
+        players = {
+            {
+                name = "Rythmicbob",
+                guid = "Unknown GUID",
+                --aliases= {},
+            },
+        },
+        description = "SHORT REASON",
+        url = "LINK TO BLACKLIST ENTRY",
+        category = "dungeon",
+    },
+
+
+    {
+        players = {
+            {
+                name = "Seadell",
+                guid = "Unknown GUID",
+                --aliases= {},
+            },
+        },
+        description = "SHORT REASON",
+        url = "LINK TO BLACKLIST ENTRY",
+        category = "dungeon",
+    },
+
+
+    {
+        players = {
+            {
+                name = "Smtsmtidk",
+                guid = "Unknown GUID",
+                --aliases= {},
+            },
+        },
+        description = "SHORT REASON",
+        url = "LINK TO BLACKLIST ENTRY",
+        category = "dungeon",
+    },
+
+
+    {
+        players = {
+            {
+                name = "Supshe",
+                guid = "Unknown GUID",
+                --aliases= {},
+            },
+        },
+        description = "SHORT REASON",
+        url = "LINK TO BLACKLIST ENTRY",
+        category = "dungeon",
+    },
+
+
+    {
+        players = {
+            {
+                name = "Teshio",
+                guid = "Unknown GUID",
+                --aliases= {},
+            },
+        },
+        description = "SHORT REASON",
+        url = "LINK TO BLACKLIST ENTRY",
+        category = "dungeon",
+    },
+
+
+    {
+        players = {
+            {
+                name = "Thaldan",
+                guid = "Player-6112-028D2F45",
+                --aliases= {},
+            },
+        },
+        description = "SHORT REASON",
+        url = "LINK TO BLACKLIST ENTRY",
+        category = "dungeon",
+    },
+
+
+    {
+        players = {
+            {
+                name = "Tomlez",
+                guid = "Player-6112-02AB622F",
+                --aliases= {},
+            },
+        },
+        description = "SHORT REASON",
+        url = "LINK TO BLACKLIST ENTRY",
+        category = "dungeon",
+    },
+
+
+    {
+        players = {
+            {
+                name = "Truu",
+                guid = "Player-6112-02B52C8A",
+                --aliases= {},
+            },
+        },
+        description = "SHORT REASON",
+        url = "LINK TO BLACKLIST ENTRY",
+        category = "dungeon",
+    },
+
+
+    {
+        players = {
+            {
+                name = "Tuplakebab",
+                guid = "Unknown GUID",
+                --aliases= {},
+            },
+        },
+        description = "SHORT REASON",
+        url = "LINK TO BLACKLIST ENTRY",
+        category = "dungeon",
+    },
+
+
+    {
+        players = {
+            {
+                name = "Unleet",
+                guid = "Unknown GUID",
+                --aliases= {},
+            },
+        },
+        description = "SHORT REASON",
+        url = "LINK TO BLACKLIST ENTRY",
+        category = "dungeon",
+    },
+
+
+    {
+        players = {
+            {
+                name = "Vampirehell",
+                guid = "Unknown GUID",
+                --aliases= {},
+            },
+        },
+        description = "SHORT REASON",
+        url = "LINK TO BLACKLIST ENTRY",
+        category = "dungeon",
+    },
+
+
+    {
+        players = {
+            {
+                name = "Weisted",
+                guid = "Player-6112-029ADEAA",
+                --aliases= {},
+            },
+        },
+        description = "SHORT REASON",
+        url = "LINK TO BLACKLIST ENTRY",
+        category = "dungeon",
+    },
+
+
+    {
+        players = {
+            {
+                name = "Windbringer",
+                guid = "Player-6112-028A6E8A",
+                --aliases= {},
+            },
+        },
+        description = "SHORT REASON",
+        url = "LINK TO BLACKLIST ENTRY",
+        category = "dungeon",
+    },
+
+
+    {
+        players = {
+            {
+                name = "Xmc",
+                guid = "Unknown GUID",
+                --aliases= {},
+            },
+        },
+        description = "SHORT REASON",
+        url = "LINK TO BLACKLIST ENTRY",
+        category = "dungeon",
+    },
+
+
+    {
+        players = {
+            {
+                name = "Yochan",
+                guid = "Player-6112-02A39486",
+                --aliases= {},
+            },
+        },
+        description = "SHORT REASON",
+        url = "LINK TO BLACKLIST ENTRY",
+        category = "dungeon",
+    },
+
+
 
     --[[ TEMPLATE COPY IT AND PASTE IT ABOVE THIS TEMPLATE FOR EASIER FORMATTING
     --COPY BELOW
