@@ -1,0 +1,14 @@
+## Interface: 30402
+## Title: Scambuster-Spineshatter
+## Notes: Scambuster list of scammers curated by the Spineshatter discord - Curated by Hazal
+## Author: Hazal
+## Version: @project-version@
+## DefaultState: enabled
+## Dependencies: Scambuster
+## X-Curse-Project-ID: 809317
+## OptDeps: LibStub
+
+LibStub.lua
+settings.lua
+list.lua
+core.lua
