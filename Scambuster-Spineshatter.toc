@@ -1,4 +1,4 @@
-## Interface: 30402
+## Interface: 11506
 ## Title: Scambuster-Spineshatter
 ## Notes: Scambuster list of scammers curated by the Spineshatter discord - Curated by Hazal
 ## Author: Hazal
