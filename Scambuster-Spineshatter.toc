@@ -5,7 +5,6 @@
 ## Version: @project-version@
 ## DefaultState: enabled
 ## Dependencies: Scambuster
-## X-Curse-Project-ID: 809317
 ## OptDeps: LibStub
 
 LibStub.lua
