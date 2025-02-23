@@ -1029,7 +1029,46 @@ t.case_table = {
         category = "dungeon",
     },
 
+-- New players below
+    
+    {
+        players={
+            {
+                name= "Lookimage",
+                --guid= "Unknown GUID",
+                --aliases= {},
+            },
+        },
+        description = "Dungeon boost scammer",
+        url = "https://discord.com/channels/1306327491769798708/1343074292178354216",
+        category = "dungeon",
+    },
 
+    {
+        players={
+            {
+                name= "Youlose",
+                --guid= "Unknown GUID",
+                --aliases= {},
+            },
+        },
+        description = "Ninja looter",
+        url = "https://discord.com/channels/1306327491769798708/1343102167585652767",
+        category = "dungeon",
+    },
+
+    {
+        players={
+            {
+                name= "Fuziwuzi",
+                --guid= "Unknown GUID",
+                --aliases= {},
+            },
+        },
+        description = "Dungeon boost scammer",
+        url = "https://discord.com/channels/1306327491769798708/1342407769096978454",
+        category = "dungeon",
+    },
     --[[ TEMPLATE COPY IT AND PASTE IT ABOVE THIS TEMPLATE FOR EASIER FORMATTING
     --COPY BELOW
     {
