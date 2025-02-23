@@ -388,7 +388,7 @@ t.case_table = {
             },
             {
                 name = "Maraservise",
-                guid = "Unknown GUID",
+                --guid = "Unknown GUID",
                 --aliases= {},
             },
         },
@@ -535,7 +535,7 @@ t.case_table = {
         players = {
             {
                 name = "Dèépfreasy",
-                guid = "Unknown GUID",
+                --guid = "Unknown GUID",
                 --aliases= {},
             },
         },
@@ -704,7 +704,7 @@ t.case_table = {
         players = {
             {
                 name = "Marlborogold",
-                guid = "Unknown GUID",
+                --guid = "Unknown GUID",
                 --aliases= {},
             },
         },
