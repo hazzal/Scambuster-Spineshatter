@@ -458,7 +458,7 @@ t.case_table = {
             },
             {
                 name = "Entir",
-                guid = "Unknown GUID",
+                guid = "Player-6112-02A65FBA",
                 --aliases= {},
             },
         },
@@ -499,7 +499,7 @@ t.case_table = {
             },
             {
                 name = "Polin",
-                --guid = "Unknown GUID",
+                guid = "Player-6112-02A47674",
                 --aliases= {},
             },
         },
@@ -564,7 +564,7 @@ t.case_table = {
             },
             {
                 name = "Pepellok",
-                guid = "Unknown GUID",
+                guid = "Player-6112-02AD3B9C",
                 --aliases= {},
             },
         },
@@ -680,7 +680,7 @@ t.case_table = {
         players = {
             {
                 name = "Kozakfury",
-                --guid = "Unknown GUID",
+                guid = "Player-6112-029D1FF3",
                 --aliases= {},
             },
         },
@@ -692,7 +692,7 @@ t.case_table = {
         players = {
             {
                 name = "Kroos",
-                guid = "Unknown GUID",
+                guid = "Player-6112-02B39124",
                 --aliases= {},
             },
         },
@@ -822,7 +822,7 @@ t.case_table = {
         players = {
             {
                 name = "Seadell",
-                --guid = "Unknown GUID",
+                guid = "Player-6112-029DD19E",
                 --aliases= {},
             },
         },
@@ -846,7 +846,7 @@ t.case_table = {
         players = {
             {
                 name = "Supshe",
-                --guid = "Unknown GUID",
+                guid = "Player-6112-02B5AF9B",
                 --aliases= {},
             },
         },
@@ -930,7 +930,7 @@ t.case_table = {
         players = {
             {
                 name = "Vampirehell",
-                --guid = "Unknown GUID",
+                guid = "Player-6112-02A5C0F2",
                 --aliases= {},
             },
         },
@@ -966,7 +966,7 @@ t.case_table = {
         players = {
             {
                 name = "Xmc",
-                --guid = "Unknown GUID",
+                guid = "Player-6112-02B45512",
                 --aliases= {},
             },
         },
