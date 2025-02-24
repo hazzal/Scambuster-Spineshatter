@@ -1040,7 +1040,7 @@ t.case_table = {
         players={
             {
                 name= "Lookimage",
-                --guid= "Unknown GUID",
+                guid= "Player-6112-02AF19BF",
                 --aliases= {},
             },
         },
@@ -1080,7 +1080,7 @@ t.case_table = {
         players={
             {
                 name= "Haisenberg",
-                --guid= "Unknown GUID",
+                guid= "Player-6112-02A1244A",
                 --aliases= {},
             },
         },
@@ -1103,7 +1103,7 @@ t.case_table = {
             },
             {
                 name= "Ranker", --low level summoner
-                --guid= "Unknown GUID",
+                guid= "Player-6112-02B22C62",
                 --aliases= {},
             },
         },
@@ -1127,7 +1127,7 @@ t.case_table = {
         players={
             {
                 name= "Frozenfury",
-                --guid= "Unknown GUID",
+                guid= "Player-6112-02B1CD04",
                 --aliases= {},
             },
         },
