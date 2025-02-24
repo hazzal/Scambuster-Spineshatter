@@ -389,7 +389,7 @@ t.case_table = {
             },
             {
                 name = "Maraservise",
-                --guid = "Unknown GUID",
+                guid = "Player-6112-02B2C7C3",
                 --aliases= {},
             },
         },
@@ -536,7 +536,7 @@ t.case_table = {
     {
         players = {
             {
-                name = "Dèépfreasy",
+                name = "Đèépfreasy",
                 --guid = "Unknown GUID",
                 --aliases= {},
             },
@@ -621,8 +621,8 @@ t.case_table = {
     {
         players = {
             {
-                name = "Golee",
-                --guid = "",
+                name = "Golee", --Unknown rename?
+                --guid = "Player-6112-02AB11EO",
                 --aliases= {},
             },
         },
@@ -816,8 +816,8 @@ t.case_table = {
     {
         players = {
             {
-                name = "Rythmicbob",
-                --guid = "Unknown GUID",
+                name = "Rhythmicbob",
+                guid = "Player-6112-0288F53F",
                 --aliases= {},
             },
         },
