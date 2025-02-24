@@ -536,8 +536,8 @@ t.case_table = {
     {
         players = {
             {
-                name = "Đèépfreasy",
-                --guid = "Unknown GUID",
+                name = "Ðèépfreasy",
+                guid = "Player-6112-0292D2A2",
                 --aliases= {},
             },
         },
