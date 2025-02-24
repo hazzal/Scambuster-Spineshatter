@@ -1157,7 +1157,7 @@ t.case_table = {
             },
             {
                 name= "Psgx",
-                guid= "Unknown GUID",
+                --guid= "Unknown GUID",
                 --aliases= {},
             },
         },
