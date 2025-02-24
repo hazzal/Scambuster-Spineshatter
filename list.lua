@@ -336,7 +336,7 @@ t.case_table = {
         players = {
             {
                 name = "Berkutenok",
-                --guid = "Unknown GUID",
+                guid = "Player-6112-02A71C86",
                 --aliases= {},
             },
         },
@@ -430,7 +430,7 @@ t.case_table = {
         players = {
             {
                 name = "Davalka",
-                --guid = "Unknown GUID",
+                guid = "Player-6112-029EECFC",
                 --aliases= {},
             },
         },
@@ -438,7 +438,8 @@ t.case_table = {
         url = "https://discord.com/channels/1306327491769798708/1334702027548393544",
         category = "dungeon",
     },
-    {
+    --[[ Removed Dazi since name isn't a ingame player but a discord alias.
+        {
         players = {
             {
                 name = "Dazi",
@@ -449,7 +450,7 @@ t.case_table = {
         description = "Goldswap scammer",
         url = "https://discord.com/channels/1306327491769798708/1339300827294335006",
         category = "trade",
-    },
+    },]]
     {
         players = {
             {
@@ -471,7 +472,7 @@ t.case_table = {
         players = {
             {
                 name = "Devourr",
-                --guid = "Unknown GUID",
+                guid = "Player-6112-02B8E1E4",
                 --aliases= {},
             },
         },
@@ -495,7 +496,7 @@ t.case_table = {
         players = {
             {
                 name = "Dopamineæ",
-                --guid = "Unknown GUID",
+                guid = "Player-6112-02A7A645",
                 --aliases= {},
             },
             {
@@ -710,7 +711,7 @@ t.case_table = {
         players = {
             {
                 name = "Marlborogold",
-                --guid = "Unknown GUID",
+                guid = "Player-6112-028AF590",
                 --aliases= {},
             },
         },
@@ -840,7 +841,7 @@ t.case_table = {
         players = {
             {
                 name = "Smtsmtidk",
-                --guid = "Unknown GUID",
+                guid = "Player-6112-02B1A44E",
                 --aliases= {},
             },
         },
@@ -864,7 +865,7 @@ t.case_table = {
         players = {
             {
                 name = "Teshio",
-                --guid = "Unknown GUID",
+                guid = "Player-6112-02995230",
                 --aliases= {},
             },
         },
@@ -912,7 +913,7 @@ t.case_table = {
         players = {
             {
                 name = "Tuplakebab",
-                --guid = "Unknown GUID",
+                guid = "Player-6112-02B688D4",
                 --aliases= {},
             },
         },
@@ -924,7 +925,7 @@ t.case_table = {
         players = {
             {
                 name = "Unleet",
-                --guid = "Unknown GUID",
+                guid = "Player-6112-029399BC",
                 --aliases= {},
             },
         },
@@ -1013,7 +1014,7 @@ t.case_table = {
             },
             {
                 name= "Galadritch",
-                --guid= "Unknown GUID",
+                guid= "Player-6112-02AAD775",
                 --aliases= {},
             },
         },
@@ -1025,7 +1026,7 @@ t.case_table = {
         players={
             {
                 name= "Bilakh",
-                --guid= "Unknown GUID",
+                guid= "Player-6112-02ADB306",
                 --aliases= {},
             },
         },
@@ -1053,7 +1054,7 @@ t.case_table = {
         players={
             {
                 name= "Youlose",
-                --guid= "Unknown GUID",
+                guid= "Player-6112-028AF637",
                 --aliases= {},
             },
         },
@@ -1066,7 +1067,7 @@ t.case_table = {
         players={
             {
                 name= "Fuziwuzi",
-                --guid= "Unknown GUID",
+                guid= "Player-6112-028B59AA",
                 --aliases= {},
             },
         },
@@ -1140,7 +1141,7 @@ t.case_table = {
         players={
             {
                 name= "Antiage",
-                --guid= "Unknown GUID",
+                guid= "Player-6112-02AF5D34",
                 --aliases= {},
             },
         },
@@ -1157,7 +1158,7 @@ t.case_table = {
             },
             {
                 name= "Psgx",
-                --guid= "Unknown GUID",
+                guid= "Player-6112-02B5A2CB",
                 --aliases= {},
             },
         },
