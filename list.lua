@@ -1166,6 +1166,140 @@ t.case_table = {
         url = "https://discord.com/channels/1306327491769798708/1339046160643653693",
         category = "dungeon",
     },
+    {
+        players={
+            {
+                name= "Shezny",
+                guid= "Player-6112-028C61BE",
+                --aliases= {},
+            },
+        },
+        description = "Dungeon boost scammer",
+        url = "https://discord.com/channels/1306327491769798708/1343914038316367912",
+        category = "dungeon",
+    },
+
+    {
+        players={
+            {
+                name= "Zeeyo",
+                guid= "Player-6112-02898569",
+                --aliases= {},
+            },
+        },
+        description = "Dungeon boost scammer",
+        url = "https://discord.com/channels/1306327491769798708/1343123867190693970",
+        category = "dungeon",
+    },
+
+    {
+        players={
+            {
+                name= "Zuppo",
+                guid= "Player-6112-02BD6066",
+                --aliases= {},
+            },
+        },
+        description = "Dungeon boost scammer",
+        url = "https://discord.com/channels/1306327491769798708/1343847703158722602",
+        category = "dungeon",
+    },
+
+    {
+        players={
+            {
+                name= "Orochimaro",
+                guid= "Player-6112-0290A041",
+                --aliases= {},
+            },
+        },
+        description = "Dungeon boost scammer",
+        url = "https://discord.com/channels/1306327491769798708/1343581188287238185",
+        category = "dungeon",
+    },
+
+    {
+        players={
+            {
+                name= "Cannlbal",
+                guid= "Player-6112-02A9185A",
+                --aliases= {},
+            },
+        },
+        description = "Dungeon boost scammer",
+        url = "https://discord.com/channels/1306327491769798708/1343913422450065488",
+        category = "dungeon",
+    },
+
+    {
+        players={
+            {
+                name= "Elchipacabra",
+                guid= "Player-6112-02997BCA",
+                --aliases= {},
+            },
+            {
+                name= "Cannøn",
+                guid= "Player-6112-02AC14C4",
+                --aliases= {},
+            },
+        },
+        description = "Ninja looter",
+        url = "https://discord.com/channels/1306327491769798708/1343648001738018838",
+        category = "raid",
+    },
+    {
+        players={
+            {
+                name= "Zedboy",
+                guid= "Player-6112-02A55C62",
+                --aliases= {},
+            },
+        },
+        description = "Dungeon boost scammer",
+        url = "https://discord.com/channels/1306327491769798708/1343638446513717388",
+        category = "dungeon",
+    },
+
+    {
+        players={
+            {
+                name= "Zantis",
+                guid= "Player-6112-029EE7B5",
+                --aliases= {},
+            },
+        },
+        description = "Dungeon boost scammer",
+        url = "https://discord.com/channels/1306327491769798708/1343906282444292137",
+        category = "dungeon",
+    },
+
+    {
+        players={
+            {
+                name= "Recardo",
+                guid= "Player-6112-02AF89BA",
+                --aliases= {},
+            },
+        },
+        description = "Dungeon boost scammer",
+        url = "https://discord.com/channels/1306327491769798708/1343853643740352553",
+        category = "dungeon",
+    },
+
+    {
+        players={
+            {
+                name= "Megakinso",
+                guid= "Player-6112-02B677D3",
+                --aliases= {},
+            },
+        },
+        description = "Dungeon boost scammer",
+        url = "https://discord.com/channels/1306327491769798708/1343964819211948145",
+        category = "dungeon",
+    },
+
     --[[ TEMPLATE COPY IT AND PASTE IT ABOVE THIS TEMPLATE FOR EASIER FORMATTING
     --COPY BELOW
     {
