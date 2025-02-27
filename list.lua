@@ -161,6 +161,7 @@ t.case_table = {
                 --aliases= {},
             },
         },
+        level=1, --watchlist?
         description = "Dungeon boost scammer",
         url = "https://discord.com/channels/1306327491769798708/1337537469238738955",
         category = "dungeon",
@@ -1282,6 +1283,7 @@ t.case_table = {
                 --aliases= {},
             },
         },
+        level=1,
         description = "Dungeon boost scammer",
         url = "https://discord.com/channels/1306327491769798708/1343853643740352553",
         category = "dungeon",
@@ -1299,6 +1301,69 @@ t.case_table = {
         url = "https://discord.com/channels/1306327491769798708/1343964819211948145",
         category = "dungeon",
     },
+
+    {
+        players={
+            {
+                name= "Pandochan",
+                guid= "Player-6112-02B593D5",
+                --aliases= {},
+            },
+        },
+        description = "Ninja looter",
+        url = "https://discord.com/channels/1306327491769798708/1344047577011589222",
+        category = "dungeon",
+    },
+
+    {
+        players={
+            {
+                name= "Møkång",
+                guid= "Player-6112-02AD6997",
+                --aliases= {},
+            },
+        },
+        description = "Dungeon boost scammer",
+        url = "https://discord.com/channels/1306327491769798708/1344087130254741515",
+        category = "dungeon",
+    },
+
+    {
+        players={
+            {
+                name= "Rotwinter",
+                guid= "Player-6112-0296A523",
+                --aliases= {},
+            },
+        },
+        description = "Dungeon boost scammer",
+        url = " https://discord.com/channels/1306327491769798708/1344331469660749954",
+        category = "dungeon",
+    },
+
+    {
+        players={
+            {
+                name= "Tissemort",
+                guid= "Player-6112-02AA34C6",
+                --aliases= {},
+            },
+            {
+                name= "Ilôll",
+                guid= "Player-6112-029E2325",
+                --aliases= {},
+            },
+            {
+                name= "Tolow",
+                guid= "Player-6112-02B548FB",
+                --aliases= {},
+            },
+        },
+        description = "Ninja looter",
+        url = "https://discord.com/channels/1306327491769798708/1344014115064250420",
+        category = "raid",
+    },
+
 
     --[[ TEMPLATE COPY IT AND PASTE IT ABOVE THIS TEMPLATE FOR EASIER FORMATTING
     --COPY BELOW
