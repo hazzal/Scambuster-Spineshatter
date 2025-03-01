@@ -161,7 +161,7 @@ t.case_table = {
                 --aliases= {},
             },
         },
-        level=1, --watchlist?
+        level = 1, --watchlist?
         description = "Dungeon boost scammer",
         url = "https://discord.com/channels/1306327491769798708/1337537469238738955",
         category = "dungeon",
@@ -588,18 +588,18 @@ t.case_table = {
                 --aliases= {},
             },
             {
-                name= "Naktorc",
-                guid= "Player-6112-02AA0AD8",
+                name = "Naktorc",
+                guid = "Player-6112-02AA0AD8",
                 --aliases= {},
             },
             {
-                name= "Naktrud",
-                guid= "Player-6112-02B9DF8F",
+                name = "Naktrud",
+                guid = "Player-6112-02B9DF8F",
                 --aliases= {},
             },
             {
-                name= "Naktroll",
-                guid= "Player-6112-02B560D3",
+                name = "Naktroll",
+                guid = "Player-6112-02B560D3",
                 --aliases= {},
             },
         },
@@ -699,7 +699,7 @@ t.case_table = {
                 --aliases= {},
             },
             {
-                name= "Missumoner",
+                name = "Missumoner",
                 --guid= "Unknown GUID",
                 --aliases= {},
             },
@@ -773,12 +773,12 @@ t.case_table = {
             {
                 name = "Parpumpa",
                 guid = "Player-6112-02AB80EE",
-                aliases= {"Parraparr"},
+                aliases = { "Parraparr" },
             },
             {
                 name = "Blankpanda",
                 guid = "Player-6112-028A8006",
-                aliases= {"Parrapara"},
+                aliases = { "Parrapara" },
             },
         },
         description = "Ninja looter",
@@ -993,12 +993,12 @@ t.case_table = {
         description = "Ninja looter",
         url = "https://discord.com/channels/1306327491769798708/1334911633935437836",
         category = "dungeon",
-    },    
+    },
     {
-        players={
+        players = {
             {
-                name= "Demonlegend",
-                guid= "Player-6112-02B9B704",
+                name = "Demonlegend",
+                guid = "Player-6112-02B9B704",
                 --aliases= {},
             },
         },
@@ -1007,15 +1007,15 @@ t.case_table = {
         category = "raid",
     },
     {
-        players={
+        players = {
             {
-                name= "Seewæ",
-                guid= "Player-6112-02AD6E30",
+                name = "Seewæ",
+                guid = "Player-6112-02AD6E30",
                 --aliases= {},
             },
             {
-                name= "Galadritch",
-                guid= "Player-6112-02AAD775",
+                name = "Galadritch",
+                guid = "Player-6112-02AAD775",
                 --aliases= {},
             },
         },
@@ -1024,10 +1024,10 @@ t.case_table = {
         category = "dungeon",
     },
     {
-        players={
+        players = {
             {
-                name= "Bilakh",
-                guid= "Player-6112-02ADB306",
+                name = "Bilakh",
+                guid = "Player-6112-02ADB306",
                 --aliases= {},
             },
         },
@@ -1036,13 +1036,13 @@ t.case_table = {
         category = "dungeon",
     },
 
--- New players below
-    
+    -- New players below
+
     {
-        players={
+        players = {
             {
-                name= "Lookimage",
-                guid= "Player-6112-02AF19BF",
+                name = "Lookimage",
+                guid = "Player-6112-02AF19BF",
                 --aliases= {},
             },
         },
@@ -1052,10 +1052,10 @@ t.case_table = {
     },
 
     {
-        players={
+        players = {
             {
-                name= "Youlose",
-                guid= "Player-6112-028AF637",
+                name = "Youlose",
+                guid = "Player-6112-028AF637",
                 --aliases= {},
             },
         },
@@ -1065,10 +1065,10 @@ t.case_table = {
     },
 
     {
-        players={
+        players = {
             {
-                name= "Fuziwuzi",
-                guid= "Player-6112-028B59AA",
+                name = "Fuziwuzi",
+                guid = "Player-6112-028B59AA",
                 --aliases= {},
             },
         },
@@ -1077,12 +1077,12 @@ t.case_table = {
         category = "dungeon",
     },
 
-    
+
     {
-        players={
+        players = {
             {
-                name= "Haisenberg",
-                guid= "Player-6112-02A1244A",
+                name = "Haisenberg",
+                guid = "Player-6112-02A1244A",
                 --aliases= {},
             },
         },
@@ -1092,20 +1092,20 @@ t.case_table = {
     },
 
     {
-        players={
+        players = {
             {
-                name= "Imsick",
-                guid= "Player-6112-02A4C878",
+                name = "Imsick",
+                guid = "Player-6112-02A4C878",
                 --aliases= {},
             },
             {
-                name= "Verfurion",
-                guid= "Player-6112-02A268E1",
+                name = "Verfurion",
+                guid = "Player-6112-02A268E1",
                 --aliases= {},
             },
             {
-                name= "Ranker", --low level summoner
-                guid= "Player-6112-02B22C62",
+                name = "Ranker", --low level summoner
+                guid = "Player-6112-02B22C62",
                 --aliases= {},
             },
         },
@@ -1114,10 +1114,10 @@ t.case_table = {
         category = "dungeon",
     },
     {
-        players={
+        players = {
             {
-                name= "Gugadad",
-                guid= "Player-6112-029E04FD",
+                name = "Gugadad",
+                guid = "Player-6112-029E04FD",
                 --aliases= {},
             },
         },
@@ -1126,10 +1126,10 @@ t.case_table = {
         category = "raid",
     },
     {
-        players={
+        players = {
             {
-                name= "Frozenfury",
-                guid= "Player-6112-02B1CD04",
+                name = "Frozenfury",
+                guid = "Player-6112-02B1CD04",
                 --aliases= {},
             },
         },
@@ -1139,10 +1139,10 @@ t.case_table = {
     },
 
     {
-        players={
+        players = {
             {
-                name= "Antiage",
-                guid= "Player-6112-02AF5D34",
+                name = "Antiage",
+                guid = "Player-6112-02AF5D34",
                 --aliases= {},
             },
         },
@@ -1151,15 +1151,15 @@ t.case_table = {
         category = "dungeon",
     },
     {
-        players={
+        players = {
             {
-                name= "Psg",
-                guid= "Player-6112-029591E3",
+                name = "Psg",
+                guid = "Player-6112-029591E3",
                 --aliases= {},
             },
             {
-                name= "Psgx",
-                guid= "Player-6112-02B5A2CB",
+                name = "Psgx",
+                guid = "Player-6112-02B5A2CB",
                 --aliases= {},
             },
         },
@@ -1168,10 +1168,10 @@ t.case_table = {
         category = "dungeon",
     },
     {
-        players={
+        players = {
             {
-                name= "Shezny",
-                guid= "Player-6112-028C61BE",
+                name = "Shezny",
+                guid = "Player-6112-028C61BE",
                 --aliases= {},
             },
         },
@@ -1181,10 +1181,10 @@ t.case_table = {
     },
 
     {
-        players={
+        players = {
             {
-                name= "Zeeyo",
-                guid= "Player-6112-02898569",
+                name = "Zeeyo",
+                guid = "Player-6112-02898569",
                 --aliases= {},
             },
         },
@@ -1194,10 +1194,10 @@ t.case_table = {
     },
 
     {
-        players={
+        players = {
             {
-                name= "Zuppo",
-                guid= "Player-6112-02BD6066",
+                name = "Zuppo",
+                guid = "Player-6112-02BD6066",
                 --aliases= {},
             },
         },
@@ -1207,10 +1207,10 @@ t.case_table = {
     },
 
     {
-        players={
+        players = {
             {
-                name= "Orochimaro",
-                guid= "Player-6112-0290A041",
+                name = "Orochimaro",
+                guid = "Player-6112-0290A041",
                 --aliases= {},
             },
         },
@@ -1220,10 +1220,10 @@ t.case_table = {
     },
 
     {
-        players={
+        players = {
             {
-                name= "Cannlbal",
-                guid= "Player-6112-02A9185A",
+                name = "Cannlbal",
+                guid = "Player-6112-02A9185A",
                 --aliases= {},
             },
         },
@@ -1233,15 +1233,15 @@ t.case_table = {
     },
 
     {
-        players={
+        players = {
             {
-                name= "Elchipacabra",
-                guid= "Player-6112-02997BCA",
+                name = "Elchipacabra",
+                guid = "Player-6112-02997BCA",
                 --aliases= {},
             },
             {
-                name= "Cannøn",
-                guid= "Player-6112-02AC14C4",
+                name = "Cannøn",
+                guid = "Player-6112-02AC14C4",
                 --aliases= {},
             },
         },
@@ -1250,10 +1250,10 @@ t.case_table = {
         category = "raid",
     },
     {
-        players={
+        players = {
             {
-                name= "Zedboy",
-                guid= "Player-6112-02A55C62",
+                name = "Zedboy",
+                guid = "Player-6112-02A55C62",
                 --aliases= {},
             },
         },
@@ -1263,10 +1263,10 @@ t.case_table = {
     },
 
     {
-        players={
+        players = {
             {
-                name= "Zantis",
-                guid= "Player-6112-029EE7B5",
+                name = "Zantis",
+                guid = "Player-6112-029EE7B5",
                 --aliases= {},
             },
         },
@@ -1276,24 +1276,24 @@ t.case_table = {
     },
 
     {
-        players={
+        players = {
             {
-                name= "Recardo",
-                guid= "Player-6112-02AF89BA",
+                name = "Recardo",
+                guid = "Player-6112-02AF89BA",
                 --aliases= {},
             },
         },
-        level=1,
+        level = 1,
         description = "Dungeon boost scammer",
         url = "https://discord.com/channels/1306327491769798708/1343853643740352553",
         category = "dungeon",
     },
 
     {
-        players={
+        players = {
             {
-                name= "Megakinso",
-                guid= "Player-6112-02B677D3",
+                name = "Megakinso",
+                guid = "Player-6112-02B677D3",
                 --aliases= {},
             },
         },
@@ -1303,10 +1303,10 @@ t.case_table = {
     },
 
     {
-        players={
+        players = {
             {
-                name= "Pandochan",
-                guid= "Player-6112-02B593D5",
+                name = "Pandochan",
+                guid = "Player-6112-02B593D5",
                 --aliases= {},
             },
         },
@@ -1316,10 +1316,10 @@ t.case_table = {
     },
 
     {
-        players={
+        players = {
             {
-                name= "Møkång",
-                guid= "Player-6112-02AD6997",
+                name = "Møkång",
+                guid = "Player-6112-02AD6997",
                 --aliases= {},
             },
         },
@@ -1329,10 +1329,10 @@ t.case_table = {
     },
 
     {
-        players={
+        players = {
             {
-                name= "Rotwinter",
-                guid= "Player-6112-0296A523",
+                name = "Rotwinter",
+                guid = "Player-6112-0296A523",
                 --aliases= {},
             },
         },
@@ -1342,20 +1342,20 @@ t.case_table = {
     },
 
     {
-        players={
+        players = {
             {
-                name= "Tissemort",
-                guid= "Player-6112-02AA34C6",
+                name = "Tissemort",
+                guid = "Player-6112-02AA34C6",
                 --aliases= {},
             },
             {
-                name= "Ilôll",
-                guid= "Player-6112-029E2325",
+                name = "Ilôll",
+                guid = "Player-6112-029E2325",
                 --aliases= {},
             },
             {
-                name= "Tolow",
-                guid= "Player-6112-02B548FB",
+                name = "Tolow",
+                guid = "Player-6112-02B548FB",
                 --aliases= {},
             },
         },
@@ -1364,17 +1364,17 @@ t.case_table = {
         category = "raid",
     },
 
-    
+
     {
-        players={
+        players = {
             {
-                name= "Babylonian",
-                guid= "Player-6112-02B0896B",
+                name = "Babylonian",
+                guid = "Player-6112-02B0896B",
                 --aliases= {},
             },
             {
-                name= "Sumready",
-                guid= "Player-6112-02A788E9",
+                name = "Sumready",
+                guid = "Player-6112-02A788E9",
                 --aliases= {},
             },
         },
@@ -1384,10 +1384,10 @@ t.case_table = {
     },
 
     {
-        players={
+        players = {
             {
-                name= "Yaargul",
-                guid= "Player-6112-02959432",
+                name = "Yaargul",
+                guid = "Player-6112-02959432",
                 --aliases= {},
             },
         },
@@ -1397,15 +1397,15 @@ t.case_table = {
     },
 
     {
-        players={
+        players = {
             {
-                name= "Aanxd",
-                guid= "Player-6112-02B4AF21",
+                name = "Aanxd",
+                guid = "Player-6112-02B4AF21",
                 --aliases= {},
             },
             {
-                name= "Aan",
-                guid= "Player-6112-0292D3C2",
+                name = "Aan",
+                guid = "Player-6112-0292D3C2",
                 --aliases= {},
             },
         },
@@ -1415,10 +1415,10 @@ t.case_table = {
     },
 
     {
-        players={
+        players = {
             {
-                name= "Pascha",
-                guid= "Player-6112-028D8129",
+                name = "Pascha",
+                guid = "Player-6112-028D8129",
                 --aliases= {},
             },
         },
@@ -1428,10 +1428,10 @@ t.case_table = {
     },
 
     {
-        players={
+        players = {
             {
-                name= "Tryggve",
-                guid= "Player-6112-02A0F396",
+                name = "Tryggve",
+                guid = "Player-6112-02A0F396",
                 --aliases= {},
             },
         },
