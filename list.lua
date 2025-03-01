@@ -1364,6 +1364,83 @@ t.case_table = {
         category = "raid",
     },
 
+    
+    {
+        players={
+            {
+                name= "Babylonian",
+                guid= "Player-6112-02B0896B",
+                --aliases= {},
+            },
+            {
+                name= "Sumready",
+                guid= "Player-6112-02A788E9",
+                --aliases= {},
+            },
+        },
+        description = "Dungeon boost scammer",
+        url = "https://discord.com/channels/1306327491769798708/1344750544169992313",
+        category = "dungeon",
+    },
+
+    {
+        players={
+            {
+                name= "Yaargul",
+                guid= "Player-6112-02959432",
+                --aliases= {},
+            },
+        },
+        description = "Ninja looter",
+        url = "https://discord.com/channels/1306327491769798708/1345137226299736076",
+        category = "dungeon",
+    },
+
+    {
+        players={
+            {
+                name= "Aanxd",
+                guid= "Player-6112-02B4AF21",
+                --aliases= {},
+            },
+            {
+                name= "Aan",
+                guid= "Player-6112-0292D3C2",
+                --aliases= {},
+            },
+        },
+        description = "Dungeon boost scammer",
+        url = "https://discord.com/channels/1306327491769798708/1344994710212706374",
+        category = "dungeon",
+    },
+
+    {
+        players={
+            {
+                name= "Pascha",
+                guid= "Player-6112-028D8129",
+                --aliases= {},
+            },
+        },
+        description = "Ninja looter",
+        url = "https://discord.com/channels/1306327491769798708/1345069547568234568",
+        category = "raid",
+    },
+
+    {
+        players={
+            {
+                name= "Tryggve",
+                guid= "Player-6112-02A0F396",
+                --aliases= {},
+            },
+        },
+        level = 2, --Tbh weird thing to add someone for. Not sure how I feel about this.
+        description = "Griefing with exploits in PvP",
+        url = "https://discord.com/channels/1306327491769798708/1344727212888166463",
+        category = "other",
+    },
+
 
     --[[ TEMPLATE COPY IT AND PASTE IT ABOVE THIS TEMPLATE FOR EASIER FORMATTING
     --COPY BELOW
