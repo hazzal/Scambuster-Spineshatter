@@ -1441,6 +1441,44 @@ t.case_table = {
         category = "other",
     },
 
+    {
+        players = {
+            {
+                name = "Akellis",
+                guid = "Player-6112-02BD62E1",
+                --aliases= {},
+            },
+        },
+        description = "Dungeon boost scammer",
+        url = "https://discord.com/channels/1306327491769798708/1341534600933019699",
+        category = "dungeon",
+    },
+
+    {
+        players = {
+            {
+                name = "Exk",
+                guid = "Player-6112-02A8392B",
+                --aliases= {},
+            },
+        },
+        description = "Dungeon boost scammer",
+        url = "https://discord.com/channels/1306327491769798708/1341098063132885113",
+        category = "dungeon",
+    },
+
+    {
+        players = {
+            {
+                name = "Kalgaroth",
+                guid = "Player-6112-02B7EEB8",
+                --aliases= {},
+            },
+        },
+        description = "Ninja looter",
+        url = "https://discord.com/channels/1306327491769798708/1342551994811809974",
+        category = "raid",
+    },
 
     --[[ TEMPLATE COPY IT AND PASTE IT ABOVE THIS TEMPLATE FOR EASIER FORMATTING
     --COPY BELOW
