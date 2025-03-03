@@ -1479,7 +1479,7 @@ t.case_table = {
         url = "https://discord.com/channels/1306327491769798708/1342551994811809974",
         category = "raid",
     },
-    
+
     {
         players = {
             {
@@ -1505,6 +1505,33 @@ t.case_table = {
         url = "https://discord.com/channels/1306327491769798708/1345403738197725284",
         category = "raid",
     },
+
+    {
+        players = {
+            {
+                name = "Kaplot",
+                guid = "Player-6112-02B9A4E9",
+                --aliases= {},
+            },
+        },
+        description = "Dungeon boost scammer",
+        url = "https://discord.com/channels/1306327491769798708/1345710098927980595",
+        category = "dungeon",
+    },
+
+    {
+        players = {
+            {
+                name = "Chispacitos",
+                guid = "Player-6112-02A1896E",
+                --aliases= {},
+            },
+        },
+        description = "Ninja looter",
+        url = "https://discord.com/channels/1306327491769798708/1346096432154808342",
+        category = "raid",
+    },
+
     --[[ TEMPLATE COPY IT AND PASTE IT ABOVE THIS TEMPLATE FOR EASIER FORMATTING
     --COPY BELOW
     {
