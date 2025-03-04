@@ -1438,7 +1438,7 @@ t.case_table = {
             },
         },
         level = 2, --Tbh weird thing to add someone for. Not sure how I feel about this.
-        description = "Griefing with exploits in PvP",
+        description = "Griefing with exploits in BGs",
         url = "https://discord.com/channels/1306327491769798708/1344727212888166463",
         category = "other",
     },
