@@ -1617,6 +1617,32 @@ t.case_table = {
         url = "https://discord.com/channels/1306327491769798708/1346194732446912552",
         category = "raid",
     },
+
+    {
+        players = {
+            {
+                name = "Marumar",
+                guid = "Player-6112-02BD3305",
+                --aliases = {},
+            },
+        },
+        description = "Dungeon boost scammer",
+        url = "https://discord.com/channels/1306327491769798708/1345532183846195250",
+        category = "dungeon",
+    },
+
+    {
+        players = {
+            {
+                name = "Crazymaster",
+                guid = "Player-6112-02B076B7",
+                --aliases = {},
+            },
+        },
+        description = "Dungeon boost scammer",
+        url = "https://discord.com/channels/1306327491769798708/1346473856809828443",
+        category = "dungeon",
+    },
     --[[ TEMPLATE COPY IT AND PASTE IT ABOVE THIS TEMPLATE FOR EASIER FORMATTING
     --COPY BELOW
     {
