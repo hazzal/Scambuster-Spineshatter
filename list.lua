@@ -1695,6 +1695,178 @@ t.case_table = {
         url = "https://discord.com/channels/1306327491769798708/1347655349926236221",
         category = "dungeon",
     },
+
+    {
+        players = {
+            {
+                name = "Keit",
+                guid = "Player-6112-02A02236",
+                --aliases = {},
+            },
+            {
+                name = "Xeono",
+                guid = "Player-6112-02A2DCDA",
+                --aliases = {},
+            },
+            {
+                name = "Teit",
+                guid = "Player-6112-02A068AE",
+                --aliases = {},
+            },
+        },
+        description = "Dungeon boost scammer",
+        url = "https://discord.com/channels/1306327491769798708/1348977381305749565",
+        category = "dungeon",
+    },
+
+    {
+        players = {
+            {
+                name = "Lucimus",
+                guid = "Player-6112-0294FA04",
+                --aliases = {},
+            },
+        },
+        description = "Dungeon boost scammer",
+        url = "https://discord.com/channels/1306327491769798708/1347910116590092378",
+        category = "dungeon",
+    },
+
+    {
+        players = {
+            {
+                name = "Naemnik",
+                guid = "Player-6112-02B4CB17",
+                --aliases = {},
+            },
+        },
+        description = "Dungeon boost scammer",
+        url = "https://discord.com/channels/1306327491769798708/1348229026963132427",
+        category = "dungeon",
+    },
+
+    {
+        players = {
+            {
+                name = "Johnsnowx",
+                guid = "Player-6112-02A52049",
+                --aliases = {},
+            },
+        },
+        description = "Ninja looter",
+        url = "https://discord.com/channels/1306327491769798708/1348403078675693638",
+        category = "raid",
+    },
+
+    {
+        players = {
+            {
+                name = "Shadeofaran",
+                guid = "Player-6112-0291C6DB",
+                --aliases = {},
+            },
+        },
+        description = "Dungeon boost scammer",
+        url = "https://discord.com/channels/1306327491769798708/1348692266641788969",
+        category = "dungeon",
+    },
+
+    {
+        players = {
+            {
+                name = "Ifrezz",
+                guid = "Player-6112-02B57D6D",
+                --aliases = {},
+            },
+        },
+        description = "Ninja looter", --Dal'rend UBRS
+        url = "https://discord.com/channels/1306327491769798708/1349373866191093845",
+        category = "dungeon",
+    },
+
+    {
+        players = {
+            {
+                name = "Apiox",
+                guid = "Player-6112-029C8B3C",
+                --aliases = {},
+            },
+        },
+        description = "Dungeon boost scammer",
+        url = "https://discord.com/channels/1306327491769798708/1349139677784965293",
+        category = "dungeon",
+    },
+
+    {
+        players = {
+            {
+                name = "Mkxx",
+                guid = "Player-6112-028E8B46",
+                --aliases = {},
+            },
+        },
+        description = "Dungeon boost scammer",
+        url = "https://discord.com/channels/1306327491769798708/1349436545282736220",
+        category = "dungeon",
+    },
+
+    {
+        players = {
+            {
+                name = "Grawe",
+                guid = "Player-6112-02938A17",
+                --aliases = {},
+            },
+            {
+                name = "Eljema",
+                guid = "Player-6112-02B1917B",
+                --aliases = {},
+            },
+        },
+        description = "Dungeon boost scammer",
+        url = "https://discord.com/channels/1306327491769798708/1349159725685800961",
+        category = "dungeon",
+    },
+
+    {
+        players = {
+            {
+                name = "Tempelar",
+                guid = "Player-6112-02A4B07E",
+                --aliases = {},
+            },
+        },
+        level = 1, --Why are we blacklisting harrashment?
+        description = "Report abuse",
+        url = "https://discord.com/channels/1306327491769798708/1348014429597601802",
+        category = "other",
+    },
+
+    {
+        players = {
+            {
+                name = "Lakooper",
+                guid = "Player-6112-02984F9F",
+                --aliases = {},
+            },
+        },
+        description = "Dungeon boost scammer",
+        url = "https://discord.com/channels/1306327491769798708/1349321773887520819",
+        category = "dungeon",
+    },
+
+    {
+        players = {
+            {
+                name = "Goldfactory",
+                guid = "Player-6112-02BC6E71",
+                --aliases = {},
+            },
+        },
+        description = "Ninja looter", --Ninja skinning wtf :D
+        url = "https://discord.com/channels/1306327491769798708/1348726102549467238",
+        category = "raid",
+    },
     --[[ TEMPLATE COPY IT AND PASTE IT ABOVE THIS TEMPLATE FOR EASIER FORMATTING
     --COPY BELOW
     {
