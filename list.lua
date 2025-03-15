@@ -1867,6 +1867,164 @@ t.case_table = {
         url = "https://discord.com/channels/1306327491769798708/1348726102549467238",
         category = "raid",
     },
+
+    
+    {
+        players = {
+            {
+                name = "Ghgsefv",
+                guid = "Player-6112-02C11B48",
+                --aliases = {},
+            },
+        },
+        description = "Ninja looter", --Ravager in SM
+        url = "https://discord.com/channels/1306327491769798708/1349393451560599552",
+        category = "dungeon",
+    },
+
+    {
+        players = {
+            {
+                name = "Mugenqq",
+                guid = "Player-6112-02B52463",
+                --aliases = {},
+            },
+        },
+        description = "Ninja looter", --Dal rend in UBRS
+        url = "https://discord.com/channels/1306327491769798708/1349876530284724264",
+        category = "dungeon",
+    },
+
+    {
+        players = {
+            {
+                name = "Seve",
+                guid = "Player-6112-02BD80A9",
+                --aliases = {},
+            },
+        },
+        description = "Ninja looter", -- Witchblade as a warrior
+        url = "https://discord.com/channels/1306327491769798708/1349174642941886516",
+        category = "dungeon",
+    },
+
+    {
+        players = {
+            {
+                name = "Bamiman",
+                guid = "Player-6112-02A6F063",
+                --aliases = {},
+            },
+        },
+        level = 2, --I decide it is 2 since intentional griefing. But imo not as bad as other stuff.
+        description = "Multiple entries of griefing raids such as AFK or pulling extra mobs", -- Maybe not multiple
+        url = "https://discord.com/channels/1306327491769798708/1350240805977194547",
+        category = "other",
+    },
+
+    {
+        players = {
+            {
+                name = "Solfjäder",
+                guid = "Player-6112-02B8F1F0",
+                --aliases = {},
+            },
+        },
+        description = "Ninja looter", -- Recipe ninja UBRS
+        url = "https://discord.com/channels/1306327491769798708/1350109087723032576",
+        category = "dungeon",
+    },
+
+    {
+        players = {
+            {
+                name = "Soorena",
+                guid = "Player-6112-02BAB7F9",
+                --aliases = {},
+            },
+        },
+        description = "Dungeon boost scammer",
+        url = "https://discord.com/channels/1306327491769798708/1348249436849176587",
+        category = "dungeon",
+    },
+
+    {
+        players = {
+            {
+                name = "Forestii",
+                guid = "Player-6112-02C96621",
+                --aliases = {},
+            },
+        },
+        description = "Ninja looter",
+        url = "https://discord.com/channels/1306327491769798708/1350534841036443761",
+        category = "dungeon",
+    },
+
+    {
+        players = {
+            {
+                name = "Nouyan",
+                guid = "Player-6112-02B0CAC9",
+                --aliases = {},
+            },
+        },
+        description = "Dungeon boost scammer",
+        url = "https://discord.com/channels/1306327491769798708/1348249436849176587",
+        category = "dungeon",
+    },
+
+    {
+        players = {
+            {
+                name = "Rentaki",
+                guid = "Player-6112-028A69BF",
+                --aliases = {},
+            },
+        },
+        description = "Dungeon boost scammer",
+        url = "https://discord.com/channels/1306327491769798708/1350095147278536724",
+        category = "dungeon",
+    },
+
+    {
+        players = {
+            {
+                name = "Zerag",
+                guid = "Player-6112-028F361C",
+                --aliases = {},
+            },
+        },
+        description = "Ninja looter",
+        url = "https://discord.com/channels/1306327491769798708/1349882779680112710",
+        category = "raid",
+    },
+
+    {
+        players = {
+            {
+                name = "Kallsomfan",
+                guid = "Player-6112-02A33BF6",
+                --aliases = {},
+            },
+        },
+        description = "Dungeon boost scammer",
+        url = "https://discord.com/channels/1306327491769798708/1346061526431305808",
+        category = "dungeon",
+    },
+
+    {
+        players = {
+            {
+                name = "Astonisher",
+                guid = "Player-6112-02B33785",
+                --aliases = {},
+            },
+        },
+        description = "Dungeon boost scammer",
+        url = "https://discord.com/channels/1306327491769798708/1350448742494375946",
+        category = "dungeon",
+    },
     --[[ TEMPLATE COPY IT AND PASTE IT ABOVE THIS TEMPLATE FOR EASIER FORMATTING
     --COPY BELOW
     {
