@@ -2025,6 +2025,61 @@ t.case_table = {
         url = "https://discord.com/channels/1306327491769798708/1350448742494375946",
         category = "dungeon",
     },
+
+    
+    {
+        players = {
+            {
+                name = "Ziiva",
+                guid = "Player-6112-02C8D215",
+                --aliases = {},
+            },
+        },
+        description = "Ninja looter", --During an onyxia run, this guy ninja looted onyxia bag to his friend
+        url = "https://discord.com/channels/1306327491769798708/1350995844446289970",
+        category = "raid",
+    },
+
+    {
+        players = {
+            {
+                name = "Farminturtl",
+                guid = "Player-6112-02B930DF",
+                --aliases = {},
+            },
+        },
+        description = "Ninja looter", --Stealing orbs in Strat
+        url = "https://discord.com/channels/1306327491769798708/1350632791272063089",
+        category = "dungeon",
+    },
+
+    {
+        players = {
+            {
+                name = "Dumbz",
+                guid = "Player-6112-02A2DAD9",
+                --aliases = {},
+            },
+        },
+        description = "Ninja looter",
+        url = "https://discord.com/channels/1306327491769798708/1350637463231533147",
+        category = "dungeon",
+    },
+
+    {
+        players = {
+            {
+                name = "Analslakter",
+                --guid = "", Didn't get GUID yet :(
+                --aliases = {},
+            },
+        },
+        level = 2, --No GUID to go by and "only" griefing
+        description = "Multiple entries of griefing raids such as AFK or pulling extra mobs",
+        url = "https://discord.com/channels/1306327491769798708/1351361538618818601",
+        category = "other",
+    },
+
     --[[ TEMPLATE COPY IT AND PASTE IT ABOVE THIS TEMPLATE FOR EASIER FORMATTING
     --COPY BELOW
     {
