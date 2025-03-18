@@ -1,6 +1,6 @@
 ## Interface: 11506
 ## Title: Scambuster-Spineshatter
-## Notes: Scambuster list of scammers curated by the Spineshatter discord - Curated by Hazal
+## Notes: Scambuster provider based on data from Spineshatter discord
 ## Author: Hazal
 ## Version: @project-version@
 ## DefaultState: enabled
