@@ -2079,6 +2079,45 @@ t.case_table = {
         url = "https://discord.com/channels/1306327491769798708/1351361538618818601",
         category = "other",
     },
+    
+    {
+        players = {
+            {
+                name = "Dinen",
+                guid = "Player-6112-029E1225",
+                --aliases = {},
+            },
+        },
+        description = "Dungeon boost scammer",
+        url = "https://discord.com/channels/1306327491769798708/1351971079807176796",
+        category = "dungeon",
+    },
+
+    {
+        players = {
+            {
+                name = "Whiteiverson",
+                guid = "Player-6112-02B86744",
+                --aliases = {},
+            },
+        },
+        description = "Ninja looter", --Mageblade MC
+        url = "https://discord.com/channels/1306327491769798708/1351677815120203776",
+        category = "raid",
+    },
+
+    {
+        players = {
+            {
+                name = "Orkjäger",
+                guid = "Player-6112-02894C8E",
+                --aliases = {},
+            },
+        },
+        description = "Ninja looter", --skinning Onyxia
+        url = "https://discord.com/channels/1306327491769798708/1351692508618559518",
+        category = "raid",
+    },
 
     --[[ TEMPLATE COPY IT AND PASTE IT ABOVE THIS TEMPLATE FOR EASIER FORMATTING
     --COPY BELOW
