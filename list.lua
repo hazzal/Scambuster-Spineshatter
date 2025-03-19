@@ -2069,12 +2069,12 @@ t.case_table = {
     {
         players = {
             {
-                name = "Analslakter",
-                --guid = "", Didn't get GUID yet :(
-                --aliases = {},
+                name = "Archanal",
+                guid = "Player-6112-02C63869",
+                aliases = {"Analslakter"},
             },
         },
-        level = 2, --No GUID to go by and "only" griefing
+        level = 2,
         description = "Multiple entries of griefing raids such as AFK or pulling extra mobs",
         url = "https://discord.com/channels/1306327491769798708/1351361538618818601",
         category = "other",
