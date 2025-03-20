@@ -2119,6 +2119,51 @@ t.case_table = {
         category = "raid",
     },
 
+    
+    {
+        players = {
+            {
+                name = "Nauda",
+                guid = "Player-6112-029B5497",
+                --aliases = {},
+            },
+        },
+        description = "Dungeon boost scammer",
+        url = "https://discord.com/channels/1306327491769798708/1349781979314393178",
+        category = "dungeon",
+    },
+
+    {
+        players = {
+            {
+                name = "Spønkd",
+                guid = "Player-6112-02C2915D",
+                --aliases = {},
+            },
+            {
+                name = "Ognoskill",
+                guid = "Player-6112-02BCA568",
+                --aliases = {},
+            },
+        },
+        description = "Ninja looter", --Onyxias head
+        url = "https://discord.com/channels/1306327491769798708/1352032560711991447",
+        category = "raid",
+    },
+
+    {
+        players = {
+            {
+                name = "Samsun",
+                guid = "Player-6112-028BB32D",
+                --aliases = {},
+            },
+        },
+        description = "Ninja looter", --Ony bag and BoEs
+        url = "https://discord.com/channels/1306327491769798708/1352020131714306109",
+        category = "raid",
+    },
+
     --[[ TEMPLATE COPY IT AND PASTE IT ABOVE THIS TEMPLATE FOR EASIER FORMATTING
     --COPY BELOW
     {
