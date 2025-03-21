@@ -699,9 +699,14 @@ t.case_table = {
                 --aliases= {},
             },
             {
-                name = "Missumoner",
+                name = "Missumoner", --Was removed from #the-list on 21 march. For unknown reasons.
                 --guid= "Unknown GUID",
                 --aliases= {},
+            },
+            {
+                name = "Oilo", -- low level char cannot get guid easily.
+                --guid = "Player-6112-UNKNOWN",
+                --aliases = {},
             },
         },
         description = "Dungeon boost scammer",
@@ -2162,6 +2167,45 @@ t.case_table = {
         description = "Ninja looter", --Ony bag and BoEs
         url = "https://discord.com/channels/1306327491769798708/1352020131714306109",
         category = "raid",
+    },
+
+    {
+        players = {
+            {
+                name = "Virtualboost",
+                --guid = "Player-6112-UNKNOWN", -- Likely renamed or hidden from armory somehow
+                --aliases = {},
+            },
+        },
+        description = "Goldswap scammer",
+        url = "https://discord.com/channels/1306327491769798708/1352388529078141048",
+        category = "trade",
+    },
+
+    {
+        players = {
+            {
+                name = "Fenduril",
+                guid = "Player-6112-02A0D52E",
+                --aliases = {},
+            },
+        },
+        description = "Ninja looter", --Libram ninja
+        url = "https://discord.com/channels/1306327491769798708/1352263149016842261",
+        category = "dungeon",
+    },
+
+    {
+        players = {
+            {
+                name = "Nonamos",
+                guid = "Player-6112-02B13A3E",
+                --aliases = {},
+            },
+        },
+        description = "Ninja looter", --Orbs in strat
+        url = "https://discord.com/channels/1306327491769798708/1352312112466100314",
+        category = "dungeon",
     },
 
     --[[ TEMPLATE COPY IT AND PASTE IT ABOVE THIS TEMPLATE FOR EASIER FORMATTING
