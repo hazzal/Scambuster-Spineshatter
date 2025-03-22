@@ -2208,6 +2208,81 @@ t.case_table = {
         category = "dungeon",
     },
 
+    {
+        players = {
+            {
+                name = "Axstroprs",
+                guid = "Player-6112-02B3BC74",
+                --aliases = {},
+            },
+            {
+                name = "Matinmj",
+                guid = "Player-6112-02B96FAC",
+                --aliases = {},
+            },
+        },
+        description = "Dungeon boost scammer",
+        url = "https://discord.com/channels/1306327491769798708/1352447666495160522",
+        category = "dungeon",
+    },
+
+    {
+        players = {
+            {
+                name = "Beybmage",
+                guid = "Player-6112-02B773C2",
+                --aliases = {},
+            },
+            {
+                name = "Miniganja",
+                guid = "Player-6112-02B75251",
+                --aliases = {},
+            },
+        },
+        description = "Dungeon boost scammer",
+        url = "https://discord.com/channels/1306327491769798708/1352385065899786362",
+        category = "dungeon",
+    },
+
+    {
+        players = {
+            {
+                name = "Wolfnight",
+                guid = "Player-6112-02A9FF97",
+                --aliases = {},
+            },
+        },
+        description = "Dungeon boost scammer",
+        url = "https://discord.com/channels/1306327491769798708/1352643306097741886",
+        category = "dungeon",
+    },
+
+    {
+        players = {
+            {
+                name = "Motala",
+                guid = "Player-6112-02C6B10E",
+                --aliases = {},
+            },
+        },
+        description = "Dungeon boost scammer",
+        url = "https://discord.com/channels/1306327491769798708/1352803380694876240",
+        category = "dungeon",
+    },
+
+    {
+        players = {
+            {
+                name = "Nanygodsent",
+                guid = "Player-6112-0295123A",
+                --aliases = {},
+            },
+        },
+        description = "Dungeon boost scammer",
+        url = "https://discord.com/channels/1306327491769798708/1352806629002842243",
+        category = "dungeon",
+    },
+
     --[[ TEMPLATE COPY IT AND PASTE IT ABOVE THIS TEMPLATE FOR EASIER FORMATTING
     --COPY BELOW
     {
