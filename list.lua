@@ -2283,6 +2283,19 @@ t.case_table = {
         category = "dungeon",
     },
 
+    {
+        players = {
+            {
+                name = "Magicmushrom", --Not on Spineshatter EU discord yet. But he deserves blacklist 100%
+                guid = "Player-6112-02B11BB5",
+                --aliases = {},
+            },
+        },
+        description = "Ninja looter", --Known scammer from other servers. Ninja looted Staff of Dominance and Talisman of Ephemeral power
+        url = "https://discord.com/channels/1306327491769798708/1353086731246637118",
+        category = "raid",
+    },
+
     --[[ TEMPLATE COPY IT AND PASTE IT ABOVE THIS TEMPLATE FOR EASIER FORMATTING
     --COPY BELOW
     {
