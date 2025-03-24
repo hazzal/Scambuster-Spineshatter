@@ -13,7 +13,6 @@ t.case_table = {
             {
                 name = "Adida",
                 guid = "Player-6112-02A98634",
-                --aliases= {},
             },
         },
         description = "Dungeon boost scammer",
@@ -25,12 +24,10 @@ t.case_table = {
             {
                 name = "Aidenmage",
                 guid = "Player-6112-02931BD2",
-                --aliases= {},
             },
             {
                 name = "Yatowiliam",
                 guid = "Player-6112-029FADAD",
-                --aliases= {},
             },
         },
         description = "Dungeon boost scammer",
@@ -42,12 +39,10 @@ t.case_table = {
             {
                 name = "Berserkone",
                 guid = "Player-6112-02B3D16C",
-                --aliases= {},
             },
             {
                 name = "Foodfatish",
                 guid = "Player-6112-02AF5AFC",
-                --aliases= {},
             },
         },
         description = "Ninja looter",
@@ -59,7 +54,6 @@ t.case_table = {
             {
                 name = "Deathshare",
                 guid = "Player-6112-02A5E71F",
-                --aliases= {},
             },
         },
         description = "Ninja looter",
@@ -71,12 +65,10 @@ t.case_table = {
             {
                 name = "Denkanpsykos",
                 guid = "Player-6112-02A9C706",
-                --aliases= {},
             },
             {
                 name = "Nusse",
                 guid = "Player-6112-02A50DD4",
-                --aliases= {},
             },
         },
         description = "Incorrectly awarding loot to another player",
@@ -88,7 +80,6 @@ t.case_table = {
             {
                 name = "Dtmblls",
                 guid = "Player-6112-029BD4AD",
-                --aliases= {},
             },
         },
         description = "Ninja looter",
@@ -100,7 +91,6 @@ t.case_table = {
             {
                 name = "Gigachadwarr",
                 guid = "Player-6112-029B9FA3",
-                --aliases= {},
             },
         },
         description = "Ninja looter",
@@ -112,7 +102,6 @@ t.case_table = {
             {
                 name = "Gospodbog",
                 guid = "Player-6112-02A6026C",
-                --aliases= {},
             },
         },
         description = "Ninja looter",
@@ -124,12 +113,10 @@ t.case_table = {
             {
                 name = "Jidi",
                 guid = "Player-6112-02A65D6B",
-                --aliases= {},
             },
             {
                 name = "Phin",
                 guid = "Player-6112-028C5223",
-                --aliases= {},
             },
         },
         description = "Dungeon boost scammer",
@@ -141,12 +128,10 @@ t.case_table = {
             {
                 name = "Misscall",
                 guid = "Player-6112-028BB801",
-                --aliases= {},
             },
             {
                 name = "Spatex",
                 guid = "Player-6112-02A34DB5",
-                --aliases= {},
             },
         },
         description = "Ninja looter",
@@ -158,7 +143,6 @@ t.case_table = {
             {
                 name = "Nightchief",
                 guid = "Player-6112-02B67A56",
-                --aliases= {},
             },
         },
         level = 1, --watchlist?
@@ -171,7 +155,6 @@ t.case_table = {
             {
                 name = "Nightkng",
                 guid = "Player-6112-02B05BFB",
-                --aliases= {},
             },
         },
         description = "Ninja looter",
@@ -183,12 +166,10 @@ t.case_table = {
             {
                 name = "Nina",
                 guid = "Player-6112-028991C6",
-                --aliases= {},
             },
             {
                 name = "Rocka",
                 guid = "Player-6112-02894588",
-                --aliases= {},
             },
         },
         level = 1, --Lower severity level since they didn't actually ninja anything.
@@ -201,7 +182,6 @@ t.case_table = {
             {
                 name = "Noyal",
                 guid = "Player-6112-0289BBA1",
-                --aliases= {},
             },
         },
         description = "Dungeon gold split scammer",
@@ -213,7 +193,6 @@ t.case_table = {
             {
                 name = "Paradóx",
                 guid = "Player-6112-0293FFE2",
-                --aliases= {},
             },
         },
         description = "Dungeon boost scammer",
@@ -225,7 +204,6 @@ t.case_table = {
             {
                 name = "Poket",
                 guid = "Player-6112-029F956F",
-                --aliases= {},
             },
         },
         description = "Dungeon boost scammer",
@@ -237,7 +215,6 @@ t.case_table = {
             {
                 name = "Sasorisama",
                 guid = "Player-6112-028FF320",
-                --aliases= {},
             },
         },
         description = "Ninja looter",
@@ -249,7 +226,6 @@ t.case_table = {
             {
                 name = "Shlûkke",
                 guid = "Player-6112-02AD3140",
-                --aliases= {},
             },
         },
         description = "Ninja looter",
@@ -261,7 +237,6 @@ t.case_table = {
             {
                 name = "Sneaxi",
                 guid = "Player-6112-02988B95",
-                --aliases= {},
             },
         },
         description = "Dungeon boost scammer",
@@ -273,7 +248,6 @@ t.case_table = {
             {
                 name = "Soulkeepér",
                 guid = "Player-6112-02A46498",
-                --aliases= {},
             },
         },
         description = "Dungeon boost scammer",
@@ -285,7 +259,6 @@ t.case_table = {
             {
                 name = "Sãlvã",
                 guid = "Player-6112-0295DCD6",
-                --aliases= {},
             },
         },
         description = "Trades similar looking items with lesser value",
@@ -297,7 +270,6 @@ t.case_table = {
             {
                 name = "Tirop",
                 guid = "Player-6112-0292FF37",
-                --aliases= {},
             },
         },
         level = 1, -- Removed from list 23 feb. But I keep data here. https://discord.com/channels/1306327491769798708/1329997681317249137/1343090637104218112
@@ -310,7 +282,6 @@ t.case_table = {
             {
                 name = "Yubadruid",
                 guid = "Player-6112-02A866C1",
-                --aliases= {},
             },
         },
         description = "Ninja looter",
@@ -326,7 +297,6 @@ t.case_table = {
             {
                 name = "Afelarusa",
                 guid = "Player-6112-02A4815F",
-                --aliases= {},
             },
         },
         description = "Dungeon boost scammer",
@@ -338,7 +308,6 @@ t.case_table = {
             {
                 name = "Berkutenok",
                 guid = "Player-6112-02A71C86",
-                --aliases= {},
             },
         },
         description = "Ninja looter",
@@ -350,7 +319,6 @@ t.case_table = {
             {
                 name = "Boykaa",
                 guid = "Player-6112-02A5D1AF",
-                --aliases= {},
             },
         },
         description = "Ninja looter",
@@ -362,7 +330,6 @@ t.case_table = {
             {
                 name = "Burgerker",
                 guid = "Player-6112-028D21E4",
-                --aliases= {},
             },
         },
         description = "Ninja looter",
@@ -374,7 +341,6 @@ t.case_table = {
             {
                 name = "Clickzx",
                 guid = "Player-6112-028D5983",
-                --aliases= {},
             },
         },
         description = "Ninja looter",
@@ -386,12 +352,10 @@ t.case_table = {
             {
                 name = "Crazyfury",
                 guid = "Player-6112-02A66E21",
-                --aliases= {},
             },
             {
                 name = "Maraservise",
                 guid = "Player-6112-02B2C7C3",
-                --aliases= {},
             },
         },
         description = "Dungeon boost scammer",
@@ -403,7 +367,6 @@ t.case_table = {
             {
                 name = "Crispycream",
                 guid = "Player-6112-02AAB935",
-                --aliases= {},
             },
         },
         description = "Ninja looter",
@@ -415,12 +378,10 @@ t.case_table = {
             {
                 name = "Darwar",
                 guid = "Player-6112-02AA4CF7",
-                --aliases= {},
             },
             {
                 name = "Darmare",
                 guid = "Player-6112-02972282",
-                --aliases= {},
             },
         },
         description = "Ninja looter",
@@ -432,7 +393,6 @@ t.case_table = {
             {
                 name = "Davalka",
                 guid = "Player-6112-029EECFC",
-                --aliases= {},
             },
         },
         description = "Dungeon boost scammer",
@@ -445,7 +405,6 @@ t.case_table = {
             {
                 name = "Dazi",
                 --guid = "Unknown GUID",
-                --aliases= {},
             },
         },
         description = "Goldswap scammer",
@@ -457,12 +416,10 @@ t.case_table = {
             {
                 name = "Demigöd",
                 guid = "Player-6112-02A68271",
-                --aliases= {},
             },
             {
                 name = "Entir",
                 guid = "Player-6112-02A65FBA",
-                --aliases= {},
             },
         },
         description = "Ninja looter",
@@ -474,7 +431,6 @@ t.case_table = {
             {
                 name = "Devourr",
                 guid = "Player-6112-02B8E1E4",
-                --aliases= {},
             },
         },
         description = "Ninja looter",
@@ -486,7 +442,6 @@ t.case_table = {
             {
                 name = "Diregraf",
                 guid = "Player-6112-029A5B2B",
-                --aliases= {},
             },
         },
         description = "Ninja looter",
@@ -498,12 +453,10 @@ t.case_table = {
             {
                 name = "Dopamineæ",
                 guid = "Player-6112-02A7A645",
-                --aliases= {},
             },
             {
                 name = "Polin",
                 guid = "Player-6112-02A47674",
-                --aliases= {},
             },
         },
         description = "Ninja looter",
@@ -515,7 +468,6 @@ t.case_table = {
             {
                 name = "Dovahkiin",
                 guid = "Player-6112-028A5AF3",
-                --aliases= {},
             },
         },
         description = "Ninja looter",
@@ -527,7 +479,6 @@ t.case_table = {
             {
                 name = "Dranix",
                 guid = "Player-6112-028A4794",
-                --aliases= {},
             },
         },
         description = "Goldswap scammer",
@@ -539,7 +490,6 @@ t.case_table = {
             {
                 name = "Ðèépfreasy",
                 guid = "Player-6112-0292D2A2",
-                --aliases= {},
             },
         },
         description = "Dungeon boost scammer",
@@ -551,7 +501,6 @@ t.case_table = {
             {
                 name = "Fetidorifice",
                 guid = "Player-6112-02A37947",
-                --aliases= {},
             },
         },
         description = "Ninja looter",
@@ -563,12 +512,10 @@ t.case_table = {
             {
                 name = "Fireskream",
                 guid = "Player-6112-02A5FDC9",
-                --aliases= {},
             },
             {
                 name = "Pepellok",
                 guid = "Player-6112-02AD3B9C",
-                --aliases= {},
             },
         },
         description = "Dungeon boost scammer",
@@ -580,27 +527,22 @@ t.case_table = {
             {
                 name = "Gajica",
                 guid = "Player-6112-028D897C",
-                --aliases= {},
             },
             {
                 name = "Naktre",
                 guid = "Player-6112-0291F5E4",
-                --aliases= {},
             },
             {
                 name = "Naktorc",
                 guid = "Player-6112-02AA0AD8",
-                --aliases= {},
             },
             {
                 name = "Naktrud",
                 guid = "Player-6112-02B9DF8F",
-                --aliases= {},
             },
             {
                 name = "Naktroll",
                 guid = "Player-6112-02B560D3",
-                --aliases= {},
             },
         },
         description = "Ninja looter",
@@ -612,7 +554,6 @@ t.case_table = {
             {
                 name = "Glibavac",
                 guid = "Player-6112-028F4CEC",
-                --aliases= {},
             },
         },
         description = "Ninja looter",
@@ -624,7 +565,6 @@ t.case_table = {
             {
                 name = "Golee", --Unknown rename?
                 --guid = "Player-6112-02AB11EO",
-                --aliases= {},
             },
         },
         description = "Ninja looter",
@@ -636,7 +576,6 @@ t.case_table = {
             {
                 name = "Greench",
                 guid = "Player-6112-029777E3",
-                --aliases= {},
             },
         },
         description = "Ninja looter",
@@ -648,7 +587,6 @@ t.case_table = {
             {
                 name = "Icandie",
                 guid = "Player-6112-02B3034E",
-                --aliases= {},
             },
         },
         description = "Dungeon boost scammer",
@@ -660,7 +598,6 @@ t.case_table = {
             {
                 name = "Jmbo",
                 guid = "Player-6112-02BF84AD",
-                --aliases= {},
             },
         },
         description = "Ninja looter",
@@ -672,7 +609,6 @@ t.case_table = {
             {
                 name = "Klumpenx",
                 guid = "Player-6112-02A3C830",
-                --aliases= {},
             },
         },
         description = "Ninja looter",
@@ -684,7 +620,6 @@ t.case_table = {
             {
                 name = "Kozakfury",
                 guid = "Player-6112-029D1FF3",
-                --aliases= {},
             },
         },
         description = "Ninja looter",
@@ -696,17 +631,14 @@ t.case_table = {
             {
                 name = "Kroos",
                 guid = "Player-6112-02B39124",
-                --aliases= {},
             },
             {
                 name = "Missumoner", --Was removed from #the-list on 21 march. For unknown reasons.
                 --guid= "Unknown GUID",
-                --aliases= {},
             },
             {
                 name = "Oilo", -- low level char cannot get guid easily.
                 --guid = "Player-6112-UNKNOWN",
-                --aliases = {},
             },
         },
         description = "Dungeon boost scammer",
@@ -718,7 +650,6 @@ t.case_table = {
             {
                 name = "Marlborogold",
                 guid = "Player-6112-028AF590",
-                --aliases= {},
             },
         },
         description = "Ninja looter",
@@ -730,7 +661,6 @@ t.case_table = {
             {
                 name = "Mazkn",
                 guid = "Player-6112-02959F1E",
-                --aliases= {},
             },
         },
         description = "Dungeon boost scammer",
@@ -742,7 +672,6 @@ t.case_table = {
             {
                 name = "Midgren",
                 guid = "Player-6112-028E04F9",
-                --aliases= {},
             },
         },
         description = "Ninja looter",
@@ -754,7 +683,6 @@ t.case_table = {
             {
                 name = "Neimuk",
                 guid = "Player-6112-02A3FB1F",
-                --aliases= {},
             },
         },
         description = "Ninja looter",
@@ -766,7 +694,6 @@ t.case_table = {
             {
                 name = "Osiiriis",
                 guid = "Player-6112-02A6B80F",
-                --aliases= {},
             },
         },
         description = "Dungeon boost scammer",
@@ -795,12 +722,10 @@ t.case_table = {
             {
                 name = "Pornello",
                 guid = "Player-6112-02A73AAC",
-                --aliases= {},
             },
             {
                 name = "Prdac",
                 guid = "Player-6112-028AFC90",
-                --aliases= {},
             },
         },
         description = "Ninja looter",
@@ -812,7 +737,6 @@ t.case_table = {
             {
                 name = "Repmaster",
                 guid = "Player-6112-0297E455",
-                --aliases= {},
             },
         },
         description = "Ninja looter",
@@ -824,7 +748,6 @@ t.case_table = {
             {
                 name = "Rhythmicbob",
                 guid = "Player-6112-0288F53F",
-                --aliases= {},
             },
         },
         description = "Manipulates soft-reserves without reason",
@@ -836,7 +759,6 @@ t.case_table = {
             {
                 name = "Seadell",
                 guid = "Player-6112-029DD19E",
-                --aliases= {},
             },
         },
         description = "Dungeon boost scammer",
@@ -848,7 +770,6 @@ t.case_table = {
             {
                 name = "Smtsmtidk",
                 guid = "Player-6112-02B1A44E",
-                --aliases= {},
             },
         },
         description = "Dungeon boost scammer",
@@ -860,7 +781,6 @@ t.case_table = {
             {
                 name = "Supshe",
                 guid = "Player-6112-02B5AF9B",
-                --aliases= {},
             },
         },
         description = "Takes item without paying",
@@ -872,7 +792,6 @@ t.case_table = {
             {
                 name = "Teshio",
                 guid = "Player-6112-02995230",
-                --aliases= {},
             },
         },
         description = "Dungeon boost scammer",
@@ -884,7 +803,6 @@ t.case_table = {
             {
                 name = "Thaldan",
                 guid = "Player-6112-028D2F45",
-                --aliases= {},
             },
         },
         description = "Scams dungeon ID seller",
@@ -896,7 +814,6 @@ t.case_table = {
             {
                 name = "Tomlez",
                 guid = "Player-6112-02AB622F",
-                --aliases= {},
             },
         },
         description = "Ninja looter",
@@ -908,7 +825,6 @@ t.case_table = {
             {
                 name = "Truu",
                 guid = "Player-6112-02B52C8A",
-                --aliases= {},
             },
         },
         description = "Ninja looter",
@@ -920,7 +836,6 @@ t.case_table = {
             {
                 name = "Tuplakebab",
                 guid = "Player-6112-02B688D4",
-                --aliases= {},
             },
         },
         description = "Dungeon boost scammer",
@@ -932,7 +847,6 @@ t.case_table = {
             {
                 name = "Unleet",
                 guid = "Player-6112-029399BC",
-                --aliases= {},
             },
         },
         description = "Ninja looter",
@@ -944,7 +858,6 @@ t.case_table = {
             {
                 name = "Vampirehell",
                 guid = "Player-6112-02A5C0F2",
-                --aliases= {},
             },
         },
         description = "Dungeon boost scammer",
@@ -956,7 +869,6 @@ t.case_table = {
             {
                 name = "Weisted",
                 guid = "Player-6112-029ADEAA",
-                --aliases= {},
             },
         },
         description = "Ninja looter",
@@ -968,7 +880,6 @@ t.case_table = {
             {
                 name = "Windbringer",
                 guid = "Player-6112-028A6E8A",
-                --aliases= {},
             },
         },
         description = "Ninja looter",
@@ -980,7 +891,6 @@ t.case_table = {
             {
                 name = "Xmc",
                 guid = "Player-6112-02B45512",
-                --aliases= {},
             },
         },
         description = "Goldswap scammer",
@@ -992,7 +902,6 @@ t.case_table = {
             {
                 name = "Yochan",
                 guid = "Player-6112-02A39486",
-                --aliases= {},
             },
         },
         description = "Ninja looter",
@@ -1004,7 +913,6 @@ t.case_table = {
             {
                 name = "Demonlegend",
                 guid = "Player-6112-02B9B704",
-                --aliases= {},
             },
         },
         description = "Manipulates soft-reserves without reason",
@@ -1016,12 +924,10 @@ t.case_table = {
             {
                 name = "Seewæ",
                 guid = "Player-6112-02AD6E30",
-                --aliases= {},
             },
             {
                 name = "Galadritch",
                 guid = "Player-6112-02AAD775",
-                --aliases= {},
             },
         },
         description = "Dungeon boost scammer",
@@ -1033,7 +939,6 @@ t.case_table = {
             {
                 name = "Bilakh",
                 guid = "Player-6112-02ADB306",
-                --aliases= {},
             },
         },
         description = "Dungeon boost scammer",
@@ -1048,7 +953,6 @@ t.case_table = {
             {
                 name = "Lookimage",
                 guid = "Player-6112-02AF19BF",
-                --aliases= {},
             },
         },
         description = "Dungeon boost scammer",
@@ -1061,7 +965,6 @@ t.case_table = {
             {
                 name = "Youlose",
                 guid = "Player-6112-028AF637",
-                --aliases= {},
             },
         },
         description = "Ninja looter",
@@ -1074,7 +977,6 @@ t.case_table = {
             {
                 name = "Fuziwuzi",
                 guid = "Player-6112-028B59AA",
-                --aliases= {},
             },
         },
         description = "Dungeon boost scammer",
@@ -1088,7 +990,6 @@ t.case_table = {
             {
                 name = "Haisenberg",
                 guid = "Player-6112-02A1244A",
-                --aliases= {},
             },
         },
         description = "Dungeon boost scammer",
@@ -1101,17 +1002,14 @@ t.case_table = {
             {
                 name = "Imsick",
                 guid = "Player-6112-02A4C878",
-                --aliases= {},
             },
             {
                 name = "Verfurion",
                 guid = "Player-6112-02A268E1",
-                --aliases= {},
             },
             {
                 name = "Ranker", --low level summoner
                 guid = "Player-6112-02B22C62",
-                --aliases= {},
             },
         },
         description = "Dungeon boost scammer",
@@ -1123,7 +1021,6 @@ t.case_table = {
             {
                 name = "Gugadad",
                 guid = "Player-6112-029E04FD",
-                --aliases= {},
             },
         },
         description = "Ninja looter",
@@ -1135,7 +1032,6 @@ t.case_table = {
             {
                 name = "Frozenfury",
                 guid = "Player-6112-02B1CD04",
-                --aliases= {},
             },
         },
         description = "Ninja looter",
@@ -1148,7 +1044,6 @@ t.case_table = {
             {
                 name = "Antiage",
                 guid = "Player-6112-02AF5D34",
-                --aliases= {},
             },
         },
         description = "Ninja looter",
@@ -1160,12 +1055,10 @@ t.case_table = {
             {
                 name = "Psg",
                 guid = "Player-6112-029591E3",
-                --aliases= {},
             },
             {
                 name = "Psgx",
                 guid = "Player-6112-02B5A2CB",
-                --aliases= {},
             },
         },
         description = "Dungeon boost scammer",
@@ -1177,7 +1070,6 @@ t.case_table = {
             {
                 name = "Shezny",
                 guid = "Player-6112-028C61BE",
-                --aliases= {},
             },
         },
         description = "Dungeon boost scammer",
@@ -1190,7 +1082,6 @@ t.case_table = {
             {
                 name = "Zeeyo",
                 guid = "Player-6112-02898569",
-                --aliases= {},
             },
         },
         description = "Dungeon boost scammer",
@@ -1203,7 +1094,6 @@ t.case_table = {
             {
                 name = "Zuppo",
                 guid = "Player-6112-02BD6066",
-                --aliases= {},
             },
         },
         description = "Dungeon boost scammer",
@@ -1216,7 +1106,6 @@ t.case_table = {
             {
                 name = "Orochimaro",
                 guid = "Player-6112-0290A041",
-                --aliases= {},
             },
         },
         description = "Dungeon boost scammer",
@@ -1229,7 +1118,6 @@ t.case_table = {
             {
                 name = "Cannlbal",
                 guid = "Player-6112-02A9185A",
-                --aliases= {},
             },
         },
         description = "Dungeon boost scammer",
@@ -1242,12 +1130,10 @@ t.case_table = {
             {
                 name = "Elchipacabra",
                 guid = "Player-6112-02997BCA",
-                --aliases= {},
             },
             {
                 name = "Cannøn",
                 guid = "Player-6112-02AC14C4",
-                --aliases= {},
             },
         },
         description = "Ninja looter",
@@ -1259,7 +1145,6 @@ t.case_table = {
             {
                 name = "Zedboy",
                 guid = "Player-6112-02A55C62",
-                --aliases= {},
             },
         },
         description = "Dungeon boost scammer",
@@ -1272,7 +1157,6 @@ t.case_table = {
             {
                 name = "Zantis",
                 guid = "Player-6112-029EE7B5",
-                --aliases= {},
             },
         },
         description = "Dungeon boost scammer",
@@ -1285,7 +1169,6 @@ t.case_table = {
             {
                 name = "Recardo",
                 guid = "Player-6112-02AF89BA",
-                --aliases= {},
             },
         },
         level = 1,
@@ -1299,7 +1182,6 @@ t.case_table = {
             {
                 name = "Megakinso",
                 guid = "Player-6112-02B677D3",
-                --aliases= {},
             },
         },
         description = "Dungeon boost scammer",
@@ -1312,7 +1194,6 @@ t.case_table = {
             {
                 name = "Pandochan",
                 guid = "Player-6112-02B593D5",
-                --aliases= {},
             },
         },
         description = "Ninja looter",
@@ -1325,7 +1206,6 @@ t.case_table = {
             {
                 name = "Møkång",
                 guid = "Player-6112-02AD6997",
-                --aliases= {},
             },
         },
         description = "Dungeon boost scammer",
@@ -1338,7 +1218,6 @@ t.case_table = {
             {
                 name = "Rotwinter",
                 guid = "Player-6112-0296A523",
-                --aliases= {},
             },
         },
         level = 1,
@@ -1352,17 +1231,14 @@ t.case_table = {
             {
                 name = "Tissemort",
                 guid = "Player-6112-02AA34C6",
-                --aliases= {},
             },
             {
                 name = "Ilôll",
                 guid = "Player-6112-029E2325",
-                --aliases= {},
             },
             {
                 name = "Tolow",
                 guid = "Player-6112-02B548FB",
-                --aliases= {},
             },
         },
         description = "Ninja looter",
@@ -1376,12 +1252,10 @@ t.case_table = {
             {
                 name = "Babylonian",
                 guid = "Player-6112-02B0896B",
-                --aliases= {},
             },
             {
                 name = "Sumready",
                 guid = "Player-6112-02A788E9",
-                --aliases= {},
             },
         },
         description = "Dungeon boost scammer",
@@ -1394,7 +1268,6 @@ t.case_table = {
             {
                 name = "Yaargul",
                 guid = "Player-6112-02959432",
-                --aliases= {},
             },
         },
         level = 1,
@@ -1408,12 +1281,10 @@ t.case_table = {
             {
                 name = "Aanxd",
                 guid = "Player-6112-02B4AF21",
-                --aliases= {},
             },
             {
                 name = "Aan",
                 guid = "Player-6112-0292D3C2",
-                --aliases= {},
             },
         },
         description = "Dungeon boost scammer",
@@ -1426,7 +1297,6 @@ t.case_table = {
             {
                 name = "Pascha",
                 guid = "Player-6112-028D8129",
-                --aliases= {},
             },
         },
         description = "Ninja looter",
@@ -1439,7 +1309,6 @@ t.case_table = {
             {
                 name = "Tryggve",
                 guid = "Player-6112-02A0F396",
-                --aliases= {},
             },
         },
         level = 2, --Tbh weird thing to add someone for. Not sure how I feel about this.
@@ -1453,7 +1322,6 @@ t.case_table = {
             {
                 name = "Akellis",
                 guid = "Player-6112-02BD62E1",
-                --aliases= {},
             },
         },
         description = "Dungeon boost scammer",
@@ -1466,7 +1334,6 @@ t.case_table = {
             {
                 name = "Exk",
                 guid = "Player-6112-02A8392B",
-                --aliases= {},
             },
         },
         description = "Dungeon boost scammer",
@@ -1479,7 +1346,6 @@ t.case_table = {
             {
                 name = "Kalgaroth",
                 guid = "Player-6112-02B7EEB8",
-                --aliases= {},
             },
         },
         description = "Ninja looter",
@@ -1492,7 +1358,6 @@ t.case_table = {
             {
                 name = "Vhafrost",
                 guid = "Player-6112-029EB156",
-                --aliases= {},
             },
         },
         description = "Dungeon boost scammer",
@@ -1505,7 +1370,6 @@ t.case_table = {
             {
                 name = "Paulilehmä",
                 guid = "Player-6112-02B1C57C",
-                --aliases= {},
             },
         },
         description = "Ninja looter",
@@ -1518,7 +1382,6 @@ t.case_table = {
             {
                 name = "Kaplot",
                 guid = "Player-6112-02B9A4E9",
-                --aliases= {},
             },
         },
         description = "Dungeon boost scammer",
@@ -1531,7 +1394,6 @@ t.case_table = {
             {
                 name = "Chispacitos",
                 guid = "Player-6112-02A1896E",
-                --aliases= {},
             },
         },
         description = "Ninja looter",
@@ -1545,7 +1407,6 @@ t.case_table = {
             {
                 name = "Crunchyroll",
                 guid = "Player-6112-02B8B754",
-                --aliases = {},
             },
         },
         description = "Dungeon boost scammer",
@@ -1558,7 +1419,6 @@ t.case_table = {
             {
                 name = "Miniac",
                 guid = "Player-6112-029AC627",
-                --aliases = {},
             },
         },
         description = "Ninja looter", --ish
@@ -1571,7 +1431,6 @@ t.case_table = {
             {
                 name = "Batucan",
                 guid = "Player-6112-028CFD5D",
-                --aliases = {},
             },
         },
         description = "Dungeon boost scammer",
@@ -1584,12 +1443,10 @@ t.case_table = {
             {
                 name = "Dalliya",
                 guid = "Player-6112-02BB9BF3",
-                --aliases = {},
             },
             {
                 name = "Haalu",
                 guid = "Player-6112-02BD333D",
-                --aliases = {},
             },
         },
         description = "Dungeon boost scammer",
@@ -1602,7 +1459,6 @@ t.case_table = {
             {
                 name = "Desemeris",
                 guid = "Player-6112-02B434A1",
-                --aliases = {},
             },
         },
         description = "Ninja looter",
@@ -1615,7 +1471,6 @@ t.case_table = {
             {
                 name = "Bizouzizi",
                 guid = "Player-6112-02BBED85",
-                --aliases = {},
             },
         },
         description = "Ninja looter",
@@ -1628,7 +1483,6 @@ t.case_table = {
             {
                 name = "Marumar",
                 guid = "Player-6112-02BD3305",
-                --aliases = {},
             },
         },
         description = "Dungeon boost scammer",
@@ -1641,7 +1495,6 @@ t.case_table = {
             {
                 name = "Crazymaster",
                 guid = "Player-6112-02B076B7",
-                --aliases = {},
             },
         },
         description = "Dungeon boost scammer",
@@ -1654,7 +1507,6 @@ t.case_table = {
             {
                 name = "Mojomage",
                 guid = "Player-6112-02B1F60C",
-                --aliases = {},
             },
         },
         description = "Ninja looter", --item: 13098 zone: 1583
@@ -1667,7 +1519,6 @@ t.case_table = {
             {
                 name = "Fingerblack",
                 guid = "Player-6112-0290CE5B",
-                --aliases = {},
             },
         },
         description = "Dungeon boost scammer",
@@ -1680,7 +1531,6 @@ t.case_table = {
             {
                 name = "Courágê",
                 guid = "Player-6112-02AB4EE5",
-                --aliases = {},
             },
         },
         description = "Dungeon boost scammer",
@@ -1693,7 +1543,6 @@ t.case_table = {
             {
                 name = "Demigodson",
                 guid = "Player-6112-02B4A905",
-                --aliases = {},
             },
         },
         description = "Dungeon boost scammer",
@@ -1706,17 +1555,14 @@ t.case_table = {
             {
                 name = "Keit",
                 guid = "Player-6112-02A02236",
-                --aliases = {},
             },
             {
                 name = "Xeono",
                 guid = "Player-6112-02A2DCDA",
-                --aliases = {},
             },
             {
                 name = "Teit",
                 guid = "Player-6112-02A068AE",
-                --aliases = {},
             },
         },
         description = "Dungeon boost scammer",
@@ -1729,7 +1575,6 @@ t.case_table = {
             {
                 name = "Lucimus",
                 guid = "Player-6112-0294FA04",
-                --aliases = {},
             },
         },
         description = "Dungeon boost scammer",
@@ -1742,7 +1587,6 @@ t.case_table = {
             {
                 name = "Naemnik",
                 guid = "Player-6112-02B4CB17",
-                --aliases = {},
             },
         },
         description = "Dungeon boost scammer",
@@ -1755,7 +1599,6 @@ t.case_table = {
             {
                 name = "Johnsnowx",
                 guid = "Player-6112-02A52049",
-                --aliases = {},
             },
         },
         description = "Ninja looter",
@@ -1768,7 +1611,6 @@ t.case_table = {
             {
                 name = "Shadeofaran",
                 guid = "Player-6112-0291C6DB",
-                --aliases = {},
             },
         },
         description = "Dungeon boost scammer",
@@ -1781,7 +1623,6 @@ t.case_table = {
             {
                 name = "Ifrezz",
                 guid = "Player-6112-02B57D6D",
-                --aliases = {},
             },
         },
         description = "Ninja looter", --Dal'rend UBRS
@@ -1794,7 +1635,6 @@ t.case_table = {
             {
                 name = "Apiox",
                 guid = "Player-6112-029C8B3C",
-                --aliases = {},
             },
         },
         description = "Dungeon boost scammer",
@@ -1807,7 +1647,6 @@ t.case_table = {
             {
                 name = "Mkxx",
                 guid = "Player-6112-028E8B46",
-                --aliases = {},
             },
         },
         description = "Dungeon boost scammer",
@@ -1820,12 +1659,10 @@ t.case_table = {
             {
                 name = "Grawe",
                 guid = "Player-6112-02938A17",
-                --aliases = {},
             },
             {
                 name = "Eljema",
                 guid = "Player-6112-02B1917B",
-                --aliases = {},
             },
         },
         description = "Dungeon boost scammer",
@@ -1838,7 +1675,6 @@ t.case_table = {
             {
                 name = "Tempelar",
                 guid = "Player-6112-02A4B07E",
-                --aliases = {},
             },
         },
         level = 1, --Why are we blacklisting harrashment?
@@ -1852,7 +1688,6 @@ t.case_table = {
             {
                 name = "Lakooper",
                 guid = "Player-6112-02984F9F",
-                --aliases = {},
             },
         },
         description = "Dungeon boost scammer",
@@ -1865,7 +1700,6 @@ t.case_table = {
             {
                 name = "Goldfactory",
                 guid = "Player-6112-02BC6E71",
-                --aliases = {},
             },
         },
         description = "Ninja looter", --Ninja skinning wtf :D
@@ -1879,7 +1713,6 @@ t.case_table = {
             {
                 name = "Ghgsefv",
                 guid = "Player-6112-02C11B48",
-                --aliases = {},
             },
         },
         description = "Ninja looter", --Ravager in SM
@@ -1892,7 +1725,6 @@ t.case_table = {
             {
                 name = "Mugenqq",
                 guid = "Player-6112-02B52463",
-                --aliases = {},
             },
         },
         description = "Ninja looter", --Dal rend in UBRS
@@ -1905,7 +1737,6 @@ t.case_table = {
             {
                 name = "Seve",
                 guid = "Player-6112-02BD80A9",
-                --aliases = {},
             },
         },
         description = "Ninja looter", -- Witchblade as a warrior
@@ -1918,7 +1749,6 @@ t.case_table = {
             {
                 name = "Bamiman",
                 guid = "Player-6112-02A6F063",
-                --aliases = {},
             },
         },
         level = 2, --I decide it is 2 since intentional griefing. But imo not as bad as other stuff.
@@ -1932,7 +1762,6 @@ t.case_table = {
             {
                 name = "Solfjäder",
                 guid = "Player-6112-02B8F1F0",
-                --aliases = {},
             },
         },
         description = "Ninja looter", -- Recipe ninja UBRS
@@ -1945,7 +1774,6 @@ t.case_table = {
             {
                 name = "Soorena",
                 guid = "Player-6112-02BAB7F9",
-                --aliases = {},
             },
         },
         description = "Dungeon boost scammer",
@@ -1958,7 +1786,6 @@ t.case_table = {
             {
                 name = "Forestii",
                 guid = "Player-6112-02C96621",
-                --aliases = {},
             },
         },
         description = "Ninja looter",
@@ -1971,7 +1798,6 @@ t.case_table = {
             {
                 name = "Nouyan",
                 guid = "Player-6112-02B0CAC9",
-                --aliases = {},
             },
         },
         description = "Dungeon boost scammer",
@@ -1984,7 +1810,6 @@ t.case_table = {
             {
                 name = "Rentaki",
                 guid = "Player-6112-028A69BF",
-                --aliases = {},
             },
         },
         description = "Dungeon boost scammer",
@@ -1997,7 +1822,6 @@ t.case_table = {
             {
                 name = "Zerag",
                 guid = "Player-6112-028F361C",
-                --aliases = {},
             },
         },
         description = "Ninja looter",
@@ -2010,7 +1834,6 @@ t.case_table = {
             {
                 name = "Kallsomfan",
                 guid = "Player-6112-02A33BF6",
-                --aliases = {},
             },
         },
         description = "Dungeon boost scammer",
@@ -2023,7 +1846,6 @@ t.case_table = {
             {
                 name = "Astonisher",
                 guid = "Player-6112-02B33785",
-                --aliases = {},
             },
         },
         description = "Dungeon boost scammer",
@@ -2037,7 +1859,6 @@ t.case_table = {
             {
                 name = "Ziiva",
                 guid = "Player-6112-02C8D215",
-                --aliases = {},
             },
         },
         description = "Ninja looter", --During an onyxia run, this guy ninja looted onyxia bag to his friend
@@ -2050,7 +1871,6 @@ t.case_table = {
             {
                 name = "Farminturtl",
                 guid = "Player-6112-02B930DF",
-                --aliases = {},
             },
         },
         description = "Ninja looter", --Stealing orbs in Strat
@@ -2063,7 +1883,6 @@ t.case_table = {
             {
                 name = "Dumbz",
                 guid = "Player-6112-02A2DAD9",
-                --aliases = {},
             },
         },
         description = "Ninja looter",
@@ -2090,7 +1909,6 @@ t.case_table = {
             {
                 name = "Dinen",
                 guid = "Player-6112-029E1225",
-                --aliases = {},
             },
         },
         description = "Dungeon boost scammer",
@@ -2103,7 +1921,6 @@ t.case_table = {
             {
                 name = "Whiteiverson",
                 guid = "Player-6112-02B86744",
-                --aliases = {},
             },
         },
         description = "Ninja looter", --Mageblade MC
@@ -2116,7 +1933,6 @@ t.case_table = {
             {
                 name = "Orkjäger",
                 guid = "Player-6112-02894C8E",
-                --aliases = {},
             },
         },
         description = "Ninja looter", --skinning Onyxia
@@ -2130,7 +1946,6 @@ t.case_table = {
             {
                 name = "Nauda",
                 guid = "Player-6112-029B5497",
-                --aliases = {},
             },
         },
         description = "Dungeon boost scammer",
@@ -2143,12 +1958,10 @@ t.case_table = {
             {
                 name = "Spønkd",
                 guid = "Player-6112-02C2915D",
-                --aliases = {},
             },
             {
                 name = "Ognoskill",
                 guid = "Player-6112-02BCA568",
-                --aliases = {},
             },
         },
         description = "Ninja looter", --Onyxias head
@@ -2161,7 +1974,6 @@ t.case_table = {
             {
                 name = "Samsun",
                 guid = "Player-6112-028BB32D",
-                --aliases = {},
             },
         },
         description = "Ninja looter", --Ony bag and BoEs
@@ -2174,7 +1986,6 @@ t.case_table = {
             {
                 name = "Virtualboost",
                 --guid = "Player-6112-UNKNOWN", -- Likely renamed or hidden from armory somehow
-                --aliases = {},
             },
         },
         description = "Goldswap scammer",
@@ -2187,7 +1998,6 @@ t.case_table = {
             {
                 name = "Fenduril",
                 guid = "Player-6112-02A0D52E",
-                --aliases = {},
             },
         },
         description = "Ninja looter", --Libram ninja
@@ -2200,7 +2010,6 @@ t.case_table = {
             {
                 name = "Nonamos",
                 guid = "Player-6112-02B13A3E",
-                --aliases = {},
             },
         },
         description = "Ninja looter", --Orbs in strat
@@ -2213,12 +2022,10 @@ t.case_table = {
             {
                 name = "Axstroprs",
                 guid = "Player-6112-02B3BC74",
-                --aliases = {},
             },
             {
                 name = "Matinmj",
                 guid = "Player-6112-02B96FAC",
-                --aliases = {},
             },
         },
         description = "Dungeon boost scammer",
@@ -2231,12 +2038,10 @@ t.case_table = {
             {
                 name = "Beybmage",
                 guid = "Player-6112-02B773C2",
-                --aliases = {},
             },
             {
                 name = "Miniganja",
                 guid = "Player-6112-02B75251",
-                --aliases = {},
             },
         },
         description = "Dungeon boost scammer",
@@ -2249,7 +2054,6 @@ t.case_table = {
             {
                 name = "Wolfnight",
                 guid = "Player-6112-02A9FF97",
-                --aliases = {},
             },
         },
         description = "Dungeon boost scammer",
@@ -2262,7 +2066,6 @@ t.case_table = {
             {
                 name = "Motala",
                 guid = "Player-6112-02C6B10E",
-                --aliases = {},
             },
         },
         description = "Dungeon boost scammer",
@@ -2275,7 +2078,6 @@ t.case_table = {
             {
                 name = "Nanygodsent",
                 guid = "Player-6112-0295123A",
-                --aliases = {},
             },
         },
         description = "Dungeon boost scammer",
@@ -2288,7 +2090,6 @@ t.case_table = {
             {
                 name = "Magicmushrom", --Not on Spineshatter EU discord yet. But he deserves blacklist 100%
                 guid = "Player-6112-02B11BB5",
-                --aliases = {},
             },
         },
         description = "Ninja looter", --Known scammer from other servers. Ninja looted Staff of Dominance and Talisman of Ephemeral power
@@ -2303,7 +2104,6 @@ t.case_table = {
             {
                 name = "Saadkw",
                 guid = "Player-6112-02A94F65",
-                --aliases = {},
             },
         },
         description = "Ninja looter", --Rogue ninja loot caster wand i:13396 in  z:2017
@@ -2316,7 +2116,6 @@ t.case_table = {
             {
                 name = "Hayabus",
                 guid = "Player-6112-02B9F1E5",
-                --aliases = {},
             },
         },
         description = "Ninja looter", --Mage ninja loots agi cape i:13340 from baron z:2017
@@ -2328,7 +2127,6 @@ t.case_table = {
             {
                 name = "Walterr",
                 guid = "Player-6112-02AD7856",
-                --aliases = {},
             },
         },
         description = "Dungeon boost scammer",
@@ -2357,22 +2155,18 @@ t.case_table = {
             {
                 name = "Vairs",
                 guid = "Player-6112-02988D4B",
-                --aliases = {},
             },
             {
                 name = "Bzns",
                 guid = "Player-6112-028B16C9",
-                --aliases = {},
             },
             {
                 name = "Discy",
                 guid = "Player-6112-02B8D2FD",
-                --aliases = {},
             },
             {
                 name = "Sychoo",
                 guid = "Player-6112-028D0555",
-                --aliases = {},
             },
         },
         description = "Ninja looter",
@@ -2385,7 +2179,6 @@ t.case_table = {
             {
                 name = "Druidical",
                 guid = "Player-6112-02C7BD45",
-                --aliases = {},
             },
         },
         description = "Ninja looter",
@@ -2400,7 +2193,6 @@ t.case_table = {
             {
                 name= "NAME",
                 guid= "GUID",
-                --aliases= {},
             },
         },
         description = "SHORT REASON",
