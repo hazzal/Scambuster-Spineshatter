@@ -2296,6 +2296,103 @@ t.case_table = {
         category = "raid",
     },
 
+
+    
+    {
+        players = {
+            {
+                name = "Saadkw",
+                guid = "Player-6112-02A94F65",
+                --aliases = {},
+            },
+        },
+        description = "Ninja looter", --Rogue ninja loot caster wand i:13396 in  z:2017
+        url = "https://discord.com/channels/1306327491769798708/1353561201467986022",
+        category = "dungeon",
+    },
+
+    {
+        players = {
+            {
+                name = "Hayabus",
+                guid = "Player-6112-02B9F1E5",
+                --aliases = {},
+            },
+        },
+        description = "Ninja looter", --Mage ninja loots agi cape i:13340 from baron z:2017
+        url = "https://discord.com/channels/1306327491769798708/1353550876622721135",
+        category = "dungeon",
+    },
+    {
+        players = {
+            {
+                name = "Walterr",
+                guid = "Player-6112-02AD7856",
+                --aliases = {},
+            },
+        },
+        description = "Dungeon boost scammer",
+        url = "https://discord.com/channels/1306327491769798708/1351863818946609173",
+        category = "dungeon",
+    },
+
+    {
+        players = {
+            {
+                name = "Crypticaz",
+                guid = "Player-6112-029EAD7A",
+            },
+            {
+                name = "Snowmixymod",
+                guid = "Player-6112-02B93082",
+            },
+        },
+        description = "Ninja looter", --Steals BOEs when not reserved.
+        url = "https://discord.com/channels/1306327491769798708/1353751971651125278/1353751971651125278",
+        category = "raid",
+    },
+
+    {
+        players = {
+            {
+                name = "Vairs",
+                guid = "Player-6112-02988D4B",
+                --aliases = {},
+            },
+            {
+                name = "Bzns",
+                guid = "Player-6112-028B16C9",
+                --aliases = {},
+            },
+            {
+                name = "Discy",
+                guid = "Player-6112-02B8D2FD",
+                --aliases = {},
+            },
+            {
+                name = "Sychoo",
+                guid = "Player-6112-028D0555",
+                --aliases = {},
+            },
+        },
+        description = "Ninja looter",
+        url = "https://discord.com/channels/1306327491769798708/1353567124521746566",
+        category = "dungeon",
+    },
+
+    {
+        players = {
+            {
+                name = "Druidical",
+                guid = "Player-6112-02C7BD45",
+                --aliases = {},
+            },
+        },
+        description = "Ninja looter",
+        url = "https://discord.com/channels/1306327491769798708/1353335346460491878",
+        category = "dungeon",
+    },
+
     --[[ TEMPLATE COPY IT AND PASTE IT ABOVE THIS TEMPLATE FOR EASIER FORMATTING
     --COPY BELOW
     {
