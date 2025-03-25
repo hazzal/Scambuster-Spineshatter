@@ -2186,6 +2186,52 @@ t.case_table = {
         category = "dungeon",
     },
 
+    
+    {
+        players = {
+            {
+                name = "Nistitaikuri",
+                guid = "Player-6112-029545AC",
+            },
+            {
+                name = "Jenkemuser",
+                guid = "Player-6112-0293D6E0",
+            },
+        },
+        description = "Scams dungeon IDs",
+        url = "https://discord.com/channels/1306327491769798708/1353822150783533146",
+        category = "trade",
+    },
+
+    {
+        players = {
+            {
+                name = "Fiskböna",
+                guid = "Player-6112-02950376",
+            },
+            {
+                name = "Fartgirlx",
+                guid = "Player-6112-02C9D273",
+            },
+        },
+        description = "Ninja looter", --Ninjas BoEs and skinning
+        url = "https://discord.com/channels/1306327491769798708/1353912142872580117",
+        category = "raid",
+    },
+
+    {
+        players = {
+            {
+                name = "Flokì",
+                guid = "Player-6112-0297FED9",
+            },
+        },
+        description = "Ninja looter", --Onyxia skinning ninja
+        url = "https://discord.com/channels/1306327491769798708/1354042032401678398",
+        category = "raid",
+    },
+
+
     --[[ TEMPLATE COPY IT AND PASTE IT ABOVE THIS TEMPLATE FOR EASIER FORMATTING
     --COPY BELOW
     {
