@@ -2231,7 +2231,17 @@ t.case_table = {
         category = "raid",
     },
 
-
+    {
+        players = {
+            {
+                name = "Melkornn",
+                guid = "Player-6112-02B0E6E8",
+            },
+        },
+        description = "Dungeon boost scammer",
+        url = "https://discord.com/channels/1306327491769798708/1354455716366123109",
+        category = "dungeon",
+    },
     --[[ TEMPLATE COPY IT AND PASTE IT ABOVE THIS TEMPLATE FOR EASIER FORMATTING
     --COPY BELOW
     {
