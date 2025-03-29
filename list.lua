@@ -2242,6 +2242,48 @@ t.case_table = {
         url = "https://discord.com/channels/1306327491769798708/1354455716366123109",
         category = "dungeon",
     },
+
+    
+    {
+        players = {
+            {
+                name = "Jèsper",
+                guid = "Player-6112-02BC6E5A",
+            },
+            {
+                name = "Bould",
+                guid = "Player-6112-028C4CE6",
+            },
+        },
+        description = "Dungeon boost scammer",
+        url = "https://discord.com/channels/1306327491769798708/1355049683223052319",
+        category = "dungeon",
+    },
+
+    {
+        players = {
+            {
+                name = "Blazara",
+                guid = "Player-6112-02BDC196",
+            },
+        },
+        description = "Ninja looter",
+        url = "https://discord.com/channels/1306327491769798708/1355035610615775344",
+        category = "dungeon",
+    },
+
+    {
+        players = {
+            {
+                name = "Sapnrun",
+                guid = "Player-6112-028B795B",
+            },
+        },
+        description = "Stealing materials",
+        url = "https://discord.com/channels/1306327491769798708/1355240965266342048",
+        category = "trade",
+    },
+
     --[[ TEMPLATE COPY IT AND PASTE IT ABOVE THIS TEMPLATE FOR EASIER FORMATTING
     --COPY BELOW
     {
