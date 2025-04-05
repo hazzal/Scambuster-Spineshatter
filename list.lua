@@ -2284,6 +2284,171 @@ t.case_table = {
         category = "trade",
     },
 
+    
+    {
+        players = {
+            {
+                name = "Nobrakezz",
+                guid = "Player-6112-02A2A346",
+            },
+            {
+                name = "Nobrakezlol",
+                guid = "Player-6112-02A4E960",
+            },
+        },
+        description = "Report abuse",
+        url = "https://discord.com/channels/1306327491769798708/1357106950172577962",
+        category = "other",
+    },
+
+    {
+        players = {
+            {
+                name = "Ásatrú",
+                guid = "Player-6112-028D777C",
+            },
+            {
+                name = "Sparkmaster",
+                guid = "Player-6112-028CE568",
+            },
+        },
+        description = "Ninja looter",
+        url = "https://discord.com/channels/1306327491769798708/1356000019223679197",
+        category = "raid",
+    },
+
+    {
+        players = {
+            {
+                name = "Kenrith",
+                guid = "Player-6112-02B84262",
+            },
+        },
+        description = "Ninja looter", --Scams SRs
+        url = "https://discord.com/channels/1306327491769798708/1357087605652455715",
+        category = "raid",
+    },
+
+    {
+        players = {
+            {
+                name = "Zarlez",
+                guid = "Player-6112-028D1646",
+            },
+        },
+        description = "Ninja looter", --scale of onyxia ninja
+        url = "https://discord.com/channels/1306327491769798708/1357342243702313040",
+        category = "raid",
+    },
+
+    {
+        players = {
+            {
+                name = "Eatassgnmass",
+                guid = "Player-6112-02B5CE78",
+            },
+            {
+                name = "Dirtydog",
+                guid = "Player-6112-02914348",
+            },
+        },
+        description = "Multiple entries of griefing raids such as AFK or pulling extra mobs",
+        url = "https://discord.com/channels/1306327491769798708/1357799877899194388",
+        category = "raid",
+    },
+
+    {
+        players = {
+            {
+                name = "Cathandria",
+                guid = "Player-6112-02CA374F",
+            },
+        },
+        description = "Ninja looter", -- Righteous orb ninja
+        url = "https://discord.com/channels/1306327491769798708/1355675582385356860",
+        category = "dungeon",
+    },
+
+    {
+        players = {
+            {
+                name = "Psylencia",
+                guid = "Player-6112-02A4BF42",
+            },
+        },
+        description = "Ninja looter", --rolled for item only to sell it after
+        url = "https://discord.com/channels/1306327491769798708/1355915004897132752",
+        category = "raid",
+    },
+
+    {
+        players = {
+            {
+                name = "Tactic",
+                guid = "Player-6112-0290B03E",
+            },
+            {
+                name = "Soton",
+                guid = "Player-6112-02A7E382",
+            },
+        },
+        description = "Dungeon boost scammer",
+        url = "https://discord.com/channels/1306327491769798708/1357047106073788416",
+        category = "dungeon",
+    },
+
+
+
+    {
+        players = {
+            {
+                name = "Danilos",
+                guid = "Player-6112-029AC95E",
+            },
+        },
+        description = "Ninja looter", --ninjaed reserved item from tribute chest
+        url = "https://discord.com/channels/1306327491769798708/1355816496147992725",
+        category = "dungeon",
+    },
+
+    {
+        players = {
+            {
+                name = "Theodor",
+                guid = "Player-6112-028E796D",
+            },
+        },
+        description = "Ninja looter", --Ninjaed Ony scale
+        url = "https://discord.com/channels/1306327491769798708/1355861807696445481",
+        category = "raid",
+    },
+
+    {
+        players = {
+            {
+                name = "Fearzx",
+                guid = "Player-6112-02BACCE5",
+            },
+        },
+        description = "Dungeon boost scammer",
+        url = "https://discord.com/channels/1306327491769798708/1355921881554882642",
+        category = "dungeon",
+    },
+
+
+
+    {
+        players = {
+            {
+                name = "Azzedine",
+                guid = "Player-6112-02C9EAED",
+            },
+        },
+        description = "Dungeon boost scammer",
+        url = "https://discord.com/channels/1306327491769798708/1357073449842905238",
+        category = "dungeon",
+    },
+
     --[[ TEMPLATE COPY IT AND PASTE IT ABOVE THIS TEMPLATE FOR EASIER FORMATTING
     --COPY BELOW
     {
