@@ -2449,6 +2449,102 @@ t.case_table = {
         category = "dungeon",
     },
 
+    
+    {
+        players = {
+            {
+                name = "Mygganw",
+                guid = "Player-6112-0291B9DE",
+            },
+        },
+        description = "Ninja looter", --Onyxia skinning
+        url = "https://discord.com/channels/1306327491769798708/1358208481936539979",
+        category = "raid",
+    },
+
+    {
+        players = {
+            {
+                name = "Alkalizer",
+                guid = "Player-6112-028D50A7",
+            },
+        },
+        description = "Ninja looter", --Boots of pure thought to guildmate
+        url = "https://discord.com/channels/1306327491769798708/1358463707734212810",
+        category = "raid",
+    },
+
+    {
+        players = {
+            {
+                name = "Slimsheydi",
+                guid = "Player-6112-02C8B98D",
+            },
+        },
+        description = "Dungeon boost scammer",
+        url = "https://discord.com/channels/1306327491769798708/1358793597801201756",
+        category = "dungeon",
+    },
+
+    {
+        players = {
+            {
+                name = "Dogmen",
+                guid = "Player-6112-02C725E6",
+            },
+        },
+        description = "Ninja looter", --Changed his softres after boss died Viskag SR tampering
+        url = "https://discord.com/channels/1306327491769798708/1358009277742186698",
+        category = "raid",
+    },
+
+    {
+        players = {
+            {
+                name = "Scree",
+                guid = "Player-6112-02943516",
+            },
+        },
+        description = "Ninja looter", --Onyxia skinning
+        url = "https://discord.com/channels/1306327491769798708/1358393952990134493",
+        category = "raid",
+    },
+
+    {
+        players = {
+            {
+                name = "Almojahed",
+                guid = "Player-6112-029126FB",
+            },
+        },
+        description = "Dungeon boost scammer",
+        url = "https://discord.com/channels/1306327491769798708/1358578373646880832",
+        category = "dungeon",
+    },
+
+    {
+        players = {
+            {
+                name = "Liaam",
+                guid = "Player-6112-02ABF897",
+            },
+        },
+        description = "Dungeon boost scammer",
+        url = "https://discord.com/channels/1306327491769798708/1358871562958143788",
+        category = "dungeon",
+    },
+
+    {
+        players = {
+            {
+                name = "Jedmage",
+                guid = "Player-6112-02B774C7",
+            },
+        },
+        description = "Dungeon boost scammer",
+        url = "https://discord.com/channels/1306327491769798708/1357663280474095636",
+        category = "dungeon",
+    },
     --[[ TEMPLATE COPY IT AND PASTE IT ABOVE THIS TEMPLATE FOR EASIER FORMATTING
     --COPY BELOW
     {
