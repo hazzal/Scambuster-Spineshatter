@@ -1680,7 +1680,7 @@ t.case_table = {
         level = 1, --Why are we blacklisting harrashment?
         description = "Report abuse",
         url = "https://discord.com/channels/1306327491769798708/1348014429597601802",
-        category = "other",
+        category = "harrashment",
     },
 
     {
@@ -2298,7 +2298,7 @@ t.case_table = {
         },
         description = "Report abuse",
         url = "https://discord.com/channels/1306327491769798708/1357106950172577962",
-        category = "other",
+        category = "harrashment",
     },
 
     {
@@ -2544,6 +2544,102 @@ t.case_table = {
         description = "Dungeon boost scammer",
         url = "https://discord.com/channels/1306327491769798708/1357663280474095636",
         category = "dungeon",
+    },
+
+    {
+        players = {
+            {
+                name = "Draketdi",
+                guid = "Player-6112-02C37F9F",
+            },
+        },
+        description = "Ninja looter", --Stole mail helmet from Gyth
+        url = "https://discord.com/channels/1306327491769798708/1359321794711912508",
+        category = "dungeon",
+    },
+
+    {
+        players = {
+            {
+                name = "Kaijsen",
+                guid = "Player-6112-02B65F1B",
+            },
+        },
+        description = "Multiple entries of griefing raids such as AFK or pulling extra mobs",
+        url = "https://discord.com/channels/1306327491769798708/1359205934899138701",
+        category = "other",
+    },
+
+    {
+        players = {
+            {
+                name = "Darkmagicc",
+                guid = "Player-6112-02B27743",
+            },
+        },
+        description = "Dungeon boost scammer ",
+        url = "https://discord.com/channels/1306327491769798708/1359813182423830709",
+        category = "dungeon",
+    },
+
+    {
+        players = {
+            {
+                name = "Kavoy",
+                guid = "Player-6112-02BCF71F",
+            },
+        },
+        description = "Ninja looter", --Bloodfang letter
+        url = "https://discord.com/channels/1306327491769798708/1359505798639910912",
+        category = "dungeon",
+    },
+
+    {
+        players = {
+            {
+                name = "Cayout",
+                guid = "Player-6112-02C4B847",
+            },
+        },
+        description = "Dungeon boost scammer",
+        url = "https://discord.com/channels/1306327491769798708/1360234556292071645",
+        category = "dungeon",
+    },
+
+    {
+        players = {
+            {
+                name = "Slimjakes",
+                guid = "Player-6112-028A97F4",
+            },
+        },
+        description = "Ninja looter", --Onyxia skinning
+        url = "https://discord.com/channels/1306327491769798708/1359273806769946865",
+        category = "raid",
+    },
+
+    {
+        players = {
+            {
+                name = "Soes",
+                guid = "Player-6112-02BA1D5C",
+            },
+        },
+        description = "Dungeon boost scammer", --Healing service but still I consider it boost scamming
+        url = "https://discord.com/channels/1306327491769798708/1359587926975058094",
+        category = "dungeon",
+    },
+
+    {
+        players = {
+            {
+                name = "Partybunker",
+                guid = "Player-6112-02AA16D7",
+            },
+        },
+        description = "Fake blacklist",
+        url = "https://discord.com/channels/1306327491769798708/1359216644307554334",
+        category = "harrashment",
     },
     --[[ TEMPLATE COPY IT AND PASTE IT ABOVE THIS TEMPLATE FOR EASIER FORMATTING
     --COPY BELOW
