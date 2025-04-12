@@ -14,7 +14,7 @@ t.my_realm = "Spineshatter"
 -- Set this variable to the name of your organisation, usually the name of your
 -- Discord.
 -- e.g. "Golemagg EU Discord"
-t.my_provider = "Hazals curation of Spineshatter blacklist"
+t.my_provider = "Hazals provider for Spineshatter. Always check the links and judge yourself"
 
 -- Set this variable to be the name of your list, can just be set to the name of
 -- your organisation if you only curate a single list.
